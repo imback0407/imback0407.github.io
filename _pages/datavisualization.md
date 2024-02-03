@@ -1,5 +1,5 @@
 ---
-title: "ViBA - Research"
+title: "ViBA - Research : Data Visualization"
 layout: textlay
 excerpt: "ViBA -- Research"
 sitemap: false
