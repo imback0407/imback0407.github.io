@@ -1,7 +1,7 @@
 ---
-title: "VIBA - Journal"
+title: "ViBA - Journal"
 layout: gridlay
-excerpt: "VIBA -- Journal."
+excerpt: "ViBA -- Journal."
 sitemap: false
 permalink: /journal/
 ---
