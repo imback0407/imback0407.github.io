@@ -1,5 +1,5 @@
 ---
-title: "ViBA - Research"
+title: "ViBA - Research : Network Analysis"
 layout: textlay
 excerpt: "ViBA -- Research"
 sitemap: false
