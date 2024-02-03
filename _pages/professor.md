@@ -8,7 +8,6 @@ permalink: /professor/
 
 # Professor
 
-## professor
 {% assign number_printed = 0 %}
 {% for member in site.data.team_professor %}
 
