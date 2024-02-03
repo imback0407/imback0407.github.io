@@ -1,7 +1,7 @@
 ---
-title: "VIBA - Conference"
+title: "ViBA - Conference"
 layout: gridlay
-excerpt: "VIBA -- Conference."
+excerpt: "ViBA -- Conference."
 sitemap: false
 permalink: /conference/
 ---
