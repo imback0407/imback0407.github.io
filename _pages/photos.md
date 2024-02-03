@@ -1,7 +1,7 @@
 ---
-title: "ViBA - photos"
+title: "ViBA - Photos"
 layout: piclay
-excerpt: "ViBA -- photos"
+excerpt: "ViBA -- Photos"
 permalink: /photos/
 ---
 
