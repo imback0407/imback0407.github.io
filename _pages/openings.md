@@ -1,5 +1,5 @@
 ---
-title: "VIBA - Vacancies"
+title: "ViBA - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
