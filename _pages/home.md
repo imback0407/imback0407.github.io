@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "VIBA - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; ViBA."
+excerpt: "VIBA &rarr; ViBA."
 sitemap: false
 permalink: /
 ---
