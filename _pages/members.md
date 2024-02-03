@@ -10,6 +10,10 @@ permalink: /members/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+{% assign number_printed = 0 %} <!-- 이 줄을 추가하여 number_printed 변수 초기화 -->
+
+{% for member in site.members %}
+
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
