@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "VIBA - Alumni"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "VIBA: Alumni"
 sitemap: false
 permalink: /alumni/
 ---
