@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "ViBA - professor"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "ViBA: professor"
 sitemap: false
 permalink: /professor/
 ---
