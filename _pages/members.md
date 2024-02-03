@@ -6,14 +6,6 @@ sitemap: false
 permalink: /members/
 ---
 
----
-title: "Allan Lab - Team"
-layout: gridlay
-excerpt: "Allan Lab: Team members"
-sitemap: false
-permalink: /professor/
----
-
 
 # Group Members
 
