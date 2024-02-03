@@ -1,7 +1,7 @@
 ---
-title: "VIBA - Alumni"
+title: "ViBA - Alumni"
 layout: gridlay
-excerpt: "VIBA: Alumni"
+excerpt: "ViBA: Alumni"
 sitemap: false
 permalink: /alumni/
 ---
