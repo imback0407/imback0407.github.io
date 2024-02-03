@@ -1,3 +1,10 @@
+---
+title: "Allan Lab - Publications"
+layout: gridlay
+excerpt: "Allan Lab -- projects."
+sitemap: false
+permalink: /projects/
+---
 
 ## Group highlights
 
