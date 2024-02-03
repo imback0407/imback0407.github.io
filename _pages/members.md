@@ -1,7 +1,7 @@
 ---
-title: "VIBA - members"
+title: "ViBA - members"
 layout: gridlay
-excerpt: "VIBA: members"
+excerpt: "ViBA: members"
 sitemap: false
 permalink: /members/
 ---
