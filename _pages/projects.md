@@ -1,7 +1,7 @@
 ---
 title: "ViBA - Project"
 layout: gridlay
-excerpt: "Allan Lab -- projects."
+excerpt: "ViBA -- projects."
 sitemap: false
 permalink: /projects/
 ---
