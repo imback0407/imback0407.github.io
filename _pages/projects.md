@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Publications"
+title: "ViBA - Project"
 layout: gridlay
 excerpt: "Allan Lab -- projects."
 sitemap: false
