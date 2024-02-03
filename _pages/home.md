@@ -1,7 +1,7 @@
 ---
-title: "VIBA - Home"
+title: "ViBA - Home"
 layout: homelay
-excerpt: "VIBA &rarr; ViBA."
+excerpt: "ViBA &rarr; ViBA."
 sitemap: false
 permalink: /
 ---
