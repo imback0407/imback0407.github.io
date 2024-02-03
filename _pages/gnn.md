@@ -1,7 +1,7 @@
 ---
-title: "ViBA - Research"
+title: "ViBA - Research : GNN"
 layout: textlay
-excerpt: "ViBA -- Research"
+excerpt: "ViBA -- Research : GNN"
 sitemap: false
 permalink: /gnn/
 ---
