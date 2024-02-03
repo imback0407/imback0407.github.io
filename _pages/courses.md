@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "VIBA - cources"
 layout: gridlay
-excerpt: "Allan Lab -- cources."
+excerpt: "VIBA -- cources."
 sitemap: false
 permalink: /courses/
 ---
