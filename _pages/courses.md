@@ -1,7 +1,7 @@
 ---
-title: "ViBA - cources"
+title: "ViBA - Cources"
 layout: gridlay
-excerpt: "ViBA -- cources."
+excerpt: "ViBA -- Cources."
 sitemap: false
 permalink: /courses/
 ---
