@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "VIBA"
+excerpt: "ViBA"
 sitemap: false
 permalink: /allnews.html
 ---
