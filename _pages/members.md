@@ -6,13 +6,21 @@ sitemap: false
 permalink: /members/
 ---
 
+---
+title: "Allan Lab - Team"
+layout: gridlay
+excerpt: "Allan Lab: Team members"
+sitemap: false
+permalink: /professor/
+---
+
+
 # Group Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-{% assign number_printed = 0 %} <!-- 이 줄을 추가하여 number_printed 변수 초기화 -->
-
-{% for member in site.members %}
+{% assign number_printed = 0 %}
+{% for member in site.data.team_member %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
