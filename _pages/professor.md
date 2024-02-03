@@ -1,7 +1,7 @@
 ---
-title: "ViBA - professor"
+title: "ViBA - Professor"
 layout: gridlay
-excerpt: "ViBA: professor"
+excerpt: "ViBA: Professor"
 sitemap: false
 permalink: /professor/
 ---
