@@ -18,7 +18,7 @@ Key Concepts and Components of GNNs:
 5.	Graph Convolutional Layers: Many GNN architectures use graph convolutional layers to aggregate information from neighboring nodes. These layers are similar to convolutional layers in image processing but adapted for graphs.
 6.	Graph Pooling: GNNs may incorporate graph pooling layers to down-sample or summarize information from subgraphs, enabling them to work with graphs of varying sizes.
 7.	Graph Attention Mechanisms: Some GNN variants employ attention mechanisms to weigh the importance of neighboring nodes differently during message passing, improving model performance.
-8.	
+
 Applications of GNNs:
 1.	Node Classification: GNNs can classify nodes in a graph, such as categorizing users in a social network or classifying proteins in a biological network.
 2.	Link Prediction: GNNs excel at predicting missing or future edges in a graph, which is useful in recommendation systems or fraud detection.
