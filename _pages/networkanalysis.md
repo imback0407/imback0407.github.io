@@ -10,7 +10,7 @@ permalink: /networkanalysis/
 
 Network Analysis is a field of study that focuses on understanding and analyzing the structure, behavior, and properties of networks. Networks are pervasive in various domains, including social media, transportation systems, communication networks, biological systems, and more. Network Analysis provides valuable insights into the connections and interactions between entities within these networks.
 
-Key Concepts:
+### Key Concepts:
 1.	Nodes and Edges: Networks consist of nodes (also known as vertices) and edges (also known as links or connections). Nodes represent individual entities, while edges represent relationships or interactions between nodes.
 2.	Types of Networks:<br/>
 •	Social Networks: These represent connections between individuals in social settings. They are used to study information diffusion, social influence, and community detection.<br/>
@@ -25,7 +25,7 @@ Key Concepts:
 7.	Network Resilience: Analyzing a network's resilience to disruptions is crucial for designing robust systems. Techniques like percolation theory assess how network components respond to node or edge removal.
 8.	Dynamic Networks: Some networks evolve over time. Dynamic network analysis explores temporal changes, capturing network dynamics and revealing trends and patterns.
 
-Applications:
+### Applications:
 1.	Social Sciences: Network Analysis is widely used to study social relationships, influence, and information spread in social networks like Facebook and Twitter.
 2.	Biology: It helps identify protein-protein interactions, study disease propagation, and understand neural connectivity in the brain.
 3.	Transportation: Analyzing transportation networks improves traffic management, optimizes routes, and enhances urban planning.
