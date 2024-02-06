@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to ViBA : Visualization and Business Analytics Lab!** During the next two years, we will build up a "ViBA" (chair) at ViBA and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
+**Welcome to the ViBA Visualization and Business Analytics Lab** During the next two years, we will build up a "ViBA" (chair) at ViBA and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.
 
 
