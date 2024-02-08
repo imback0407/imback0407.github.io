@@ -6,10 +6,7 @@ sitemap: false
 permalink: /conference/
 ---
 
-
-# Conference
-
-## Full List of Conference
+## Conference
 
 {% for publi in site.data.conference %}
 
