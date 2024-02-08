@@ -7,7 +7,7 @@ permalink: /journal/
 ---
 
 
-## Full List of Journal
+## Journal
 
 {% for publi in site.data.journal %}
 
