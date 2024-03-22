@@ -36,7 +36,6 @@ permalink: /projects/
 </div>
 {% endif %}
 
-{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
