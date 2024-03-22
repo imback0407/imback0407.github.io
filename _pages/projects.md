@@ -12,6 +12,10 @@ permalink: /projects/
 {% for publi in site.data.project %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 0 %} 
+
+{% if even_odd == 0 %}
+<div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
@@ -28,12 +32,17 @@ permalink: /projects/
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
 {% endif %}
 
 {% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
 {% endif %}
 
 <p> &nbsp; </p>
