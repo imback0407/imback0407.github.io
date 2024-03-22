@@ -1,92 +1,87 @@
-- name: jihong kim
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Joseph Shim
+  photo: kyutae.jpeg
+  info: since Jan 2022
+  email: ktshim@snu.ac.kr
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: B.A. in Economics, University of Michigan, Ann Arbor(2016)
+  education2: M.S. in Economics, ChungAng University(2020)
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
-
-- name: Meng Li
-  photo: MengLi.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
-
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+- name: Yunsu Kim
+  photo: yunsukim.jpg
+  info: since Jan 2023
+  email: hot3203@snu.ac.kr
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+  education1: B.S. in Electrical and Computer Engineering, Ajou Univ (2015)
 
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Jinwoo Choi
+  photo: jinwoochoi.jpeg
+  info: since Jan 2023
+  email: jja8989@snu.ac.kr
+  number_educ: 2
+  education1: B.S. in Physics, Seoul National Univ.(2018)
+  education2: M.S. in Material Science & Engineering, Seoul National Univ.(2022)
+
+- name: Sungwook Son
+  photo: default.png
+  info: since Jan 2023
+  email: sungwookson@snu.ac.kr
+  number_educ: 2
+  education1: B.S. in Computer Science, University of California San Diego (UCSD), (2020)
+  education2: M.S. in Data Science, Seoul National University (2023)
+
+- name: Ye Ji Chun
+  photo: default.png
+  info: since Sep 2023
+  email: yejichun@snu.ac.kr
+  number_educ: 2
+  education1: B.S. in Economics, Seoul National University (2020) 
+  education2:  M.S. in Data Science, Seoul National University (2023)
+
+- name: Jeehong Kim
+  photo: jeehongkim.jpg
+  info: since Jan 2024
+  email: williamkim10@snu.ac.kr
   number_educ: 1
-  education1: Master Leiden University
+  education1: B.S. in Industrial Engineering, Korea Univ.(2023)
+  
+# - name: Maialen Ortego Larrazabal
+#   photo: Maialen.png
+#   info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+#   email: b
+#   number_educ: 2
+#   education1: Master Leiden University
+#   education2: BSc, University of the Basque Country
+#   education3:
+#   education4:
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+# - name: Kees van Oosten
+#   photo: DSC_1032.JPG
+#   info: FFine mechanical engineer (also associated with the FMD)
+#   email: Oosten@fmd.physics.leidenuniv.nl
+#   number_educ: 2
+#   education1: Leidse instrumentmakers School
+#   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+
+# - name: Hugo van Bohemen
+#   photo: hugo.jpg
+#   info: Fine mechanical engineer (also associated with the FMD)
+#   email: h.s.m.van.bohemen@physics.leidenuniv.nl
+#   number_educ: 1
+#   education1: Leidse Instrumentmakers School
+#   education2:
+
+# - name: Ilse Kuijf
+#   photo: ilse.jpeg
+#   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
+#   email: Bastiaans@Physics.LeidenUniv.nl
+#   number_educ: 1
+#   education1: Master Leiden University
+
+# - name: "This could be you !"
+#   photo: default.png
+#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#   email: milan.allan@gmail.com
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
