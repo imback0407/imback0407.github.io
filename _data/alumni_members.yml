@@ -1,13 +1,4 @@
-# - name: Sejin Kim
-  
-# - name: Ji Hong Min
- 
-# - name: Changuk Lee
-  
-# - name: Chan song Lim 
-  
-
-- name: Freek Groenewoud
+- name: Sejin Kim
   photo: Freek.jpg
   info: Fine mechanical engineer (also associated with the FMD)
   email: Groenewoud@physics.leidenuniv.nl
@@ -18,7 +9,7 @@
   education3:
   education4:
 
-- name: Damianos Chatzopoulos
+- name: Ji Hong Min
   photo: Damianos.jpg
   info: PhD Student, started December 2017
   duration: In the Allan Lab Dec 2017 - Dec 2021, now at Rabobank
@@ -28,7 +19,7 @@
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
   education3:
 
-- name: Willem Tromp
+- name: Changuk Lee
   photo: website_pic_willem.jpg
   info: PhD Student, started September 2018
   duration: In the Allan Lab 2018 - 2022
@@ -39,7 +30,7 @@
   education3:
   education4:
 
-- name: Kaveh Lahabi
+- name: Chan song Lim 
   photo: Kaveh.png
   info: NWO Veni fellow, collaborating with us and the <a href="https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/van-der-sar-lab/">van der Sar lab</a>
   duration: In the Allan Lab for a short time in 2022 as a Veni fellow, before starting his group.
