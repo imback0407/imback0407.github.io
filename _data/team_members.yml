@@ -1,5 +1,6 @@
 - name: Joseph Shim
   photo: kyutae.jpeg
+  research: Visualization
   info: since Jan 2022
   email: ktshim@snu.ac.kr
   number_educ: 2
@@ -8,6 +9,7 @@
 
 - name: Yunsu Kim
   photo: yunsukim.jpg
+  research: Visualization
   info: since Jan 2023
   email: hot3203@snu.ac.kr
   number_educ: 1
@@ -15,6 +17,7 @@
 
 - name: Jinwoo Choi
   photo: jinwoochoi.jpeg
+  research: Visualization
   info: since Jan 2023
   email: jja8989@snu.ac.kr
   number_educ: 2
@@ -23,6 +26,7 @@
 
 - name: Sungwook Son
   photo: default.png
+  research: Visualization
   info: since Jan 2023
   email: sungwookson@snu.ac.kr
   number_educ: 2
@@ -31,6 +35,7 @@
 
 - name: Ye Ji Chun
   photo: default.png
+  research: Operations Research
   info: since Sep 2023
   email: yejichun@snu.ac.kr
   number_educ: 2
@@ -39,6 +44,7 @@
 
 - name: Jeehong Kim
   photo: jeehongkim.jpg
+  research: GNN
   info: since Jan 2024
   email: williamkim10@snu.ac.kr
   number_educ: 1
