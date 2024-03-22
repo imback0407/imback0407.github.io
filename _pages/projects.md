@@ -12,6 +12,7 @@ permalink: /projects/
 {% for publi in site.data.project %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
+{% endif %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -20,14 +21,19 @@ permalink: /projects/
   <p>{{ publi.description }}</p>
   <p>{{ publi.organization }}</p>
   <p><em>{{ publi.date }}</em></p>
+<!--   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p> -->
  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
+{% endif %}
 
 {% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
+{% endif %}
 
 <p> &nbsp; </p>
