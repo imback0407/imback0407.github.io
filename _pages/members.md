@@ -26,7 +26,6 @@ permalink: /members/
   <h5>{{ member.research }}</h5>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
  
-  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -57,7 +56,6 @@ permalink: /members/
   <li> {{ member.education5 }} </li>
   {% endif %}
   
-  {% endif %}
   <ul style="overflow: hidden">
   </ul>
 </div>
