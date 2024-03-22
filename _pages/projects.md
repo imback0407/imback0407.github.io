@@ -20,13 +20,10 @@ permalink: /projects/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  <p>{{ publi.organization }} <em>{{ publi.date }}</em></p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p>{{ publi.organization }}</p>
-  <p><em>{{ publi.date }}</em></p>
-<!--   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p> -->
+
  </div>
 </div>
 
