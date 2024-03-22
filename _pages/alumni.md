@@ -17,7 +17,7 @@ permalink: /alumni/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
 
