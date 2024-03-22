@@ -6,17 +6,17 @@ sitemap: false
 permalink: /projects/
 ---
 
-## Project highlights
+## Projects
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.project %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+<!-- {% if publi.highlight == 1 %} 
 
 {% if even_odd == 0 %}
 <div class="row">
-{% endif %}
+{% endif %}-->
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -33,9 +33,9 @@ permalink: /projects/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+<!-- {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %}-->
 
 {% endif %}
 {% endfor %}
