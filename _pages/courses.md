@@ -13,6 +13,8 @@ permalink: /courses/
 
 <h4><br>Visualization For Data Analytics<br /></h4> M3239.003100 001 (2022-2)
 
+
+
 <!-- <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
 
