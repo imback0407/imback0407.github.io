@@ -21,8 +21,9 @@ permalink: /projects/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.organization }} <em>{{ publi.date }}</em></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="max-width: 25%; height: auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
+
  </div>
 </div>
 
