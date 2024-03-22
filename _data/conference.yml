@@ -1,20 +1,16 @@
 - title: "Revelio: A Lifelog Visualization System with Google My Activity"
   image: imageaward_edited.png
-  description: 
   authors: Choi Y, Kim Y, Lee CG, Park J, Park H
   link:
     url: 
     display: IEEE PacificVis (Poster) (2024)
-  highlight: 0
   
 - title: "String Nodes Visualization with a Simple Trick: The Hidden Virtual Nodes"
   image: imageaward_edited.png
-  description: 
   authors: Choi J, Park H
   link:
     url: https://arxiv.org/abs/2306.02397
     display: IEEE PacificVis (Poster) (2024)
-  highlight: 0
 
 # - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
 #   image: BSCCOgap.png
