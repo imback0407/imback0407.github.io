@@ -23,9 +23,8 @@ permalink: /members/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <h6>{{ member.research }}</h6>
-  <i>{{ member.info }} 
-  <br>email: <{{ member.email }}></i>
+  <h5>{{ member.research }}</h5>
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -57,11 +56,11 @@ permalink: /members/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+
   </ul>
 </div>
-{% endif %}
-{% assign number_printed = number_printed | plus: 1 %}
 
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
 </div>
