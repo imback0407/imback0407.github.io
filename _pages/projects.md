@@ -24,6 +24,7 @@ permalink: /projects/
         <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width= "33%" max-height= "90%" style="float: left;"/>
         <p>{{ publi.description }}</p>
     </div>
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -35,7 +36,6 @@ permalink: /projects/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-</div>
 {% endif %}
 
 <p> &nbsp; </p>
