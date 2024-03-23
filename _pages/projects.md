@@ -18,12 +18,13 @@ permalink: /projects/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-    <div class="well">
-        <h1>{{ publi.title }}</h1>
-        <p>{{ publi.organization }}<em>{{ publi.date }}</em></p>
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width= "33%" max-height= "90%" style="float: left;"/>
-        <p>{{ publi.description }}</p>
-    </div>
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <p>{{ publi.organization }} <em>{{ publi.date }}</em></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+
+ </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
