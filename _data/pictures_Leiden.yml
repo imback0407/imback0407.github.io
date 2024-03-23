@@ -1,7 +1,3 @@
-- title: 2023 GSDS Workshop
-  image: 2023_GSDSworkshop.jpeg
-  date: 2023.05.19
-  
 - title: 2024-1 Graduation Ceremony
   image: 2024-1_Graduation.jpeg
   date: 2024.01.01
@@ -50,6 +46,9 @@
   image: 2023_Seminar_2.jpeg
   date: ""
 
+- title: 2023 GSDS Workshop
+  image: 2023_GSDSworkshop.jpeg
+  date: 2023.05.19
 - title: 2023 Seminar
   image: 2023_Seminar_3.jpeg
   date: ""
