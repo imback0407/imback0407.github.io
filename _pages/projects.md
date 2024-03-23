@@ -17,7 +17,7 @@ permalink: /projects/
 <div class="row">
 {% endif %}
 
-<div class="col-md-8 clearfix">
+<div class="col-sm-6 clearfix" style="height: auto;">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.organization }} <em>{{ publi.date }}</em></p>
