@@ -22,10 +22,6 @@
   image: 2023_Birthdayparty.jpeg
   date: 2023.05.19
 
-- title: 2023 GSDS Workshop
-  image: 2023_GSDSworkshop.jpeg
-  date: 2023.05.19
-
 - title: 2023 IEEE Pacific Visualization Symposium
   image: 2023_PacificViz_1.jpeg
   date: 2023.04.18
@@ -53,3 +49,7 @@
 - title: 2023 Seminar
   image: 2023_Seminar_3.jpeg
   date: ""
+
+- title: 2023 GSDS Workshop
+  image: 2023_GSDSworkshop.jpeg
+  date: 2023.05.19
