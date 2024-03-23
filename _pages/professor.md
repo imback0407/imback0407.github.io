@@ -68,7 +68,3 @@ permalink: /professor/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
