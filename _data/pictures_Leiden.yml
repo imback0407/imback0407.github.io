@@ -1,34 +1,55 @@
-- title: pic1_description
-  image: DSC_0366.JPG
-- title: pic1_description
-  image: DSC_0368.JPG
-- title: pic_description
-  image: 20150918_145800.jpg
-- title: pic1_description
-  image: DSC_0030.jpg
-- title: pic1_description
-  image: DSC_0051.jpg
-- title: pic1_description
-  image: DSC_0116.jpg
-- title: pic1_description
-  image: DSC_0119.jpg
-- title: pic1_description
-  image: DSC_0128.jpg
-- title: pic1_description
-  image: DSC_0139.jpg
-- title: pic1_description
-  image: DSC_0636.jpg
-- title: pic1_description
-  image: DSC_0683.jpg
-- title: pic1_description
-  image: DSC_0696.jpg
-- title: pic1_description
-  image: DSC_0757.jpg
-- title: pic1_description
-  image: IMG_4334.jpg
-- title: pic1_description
-  image: IMG_4376.jpg
-- title: pic1_description
-  image: tamagochi.jpg
-- title: pic1_description
-  image: tmp2-2.jpg
+- title: 2024-1 Graduation Ceremony
+  image: 2024-1_Graduation.jpeg
+  date: 2024.01.01
+
+- title: 2023-2 Graduation Ceremony
+  image: 2023-2_Graduation_1.jpeg
+  date: 2023.08.29
+
+- title: 2023-2 Graduation Ceremony
+  image: 2023-2_Graduation_2.jpeg
+  date: 2023.08.29
+
+- title: 2023 GSDS Workshop
+  image: 2023_GSDSworkshop.jpeg
+  date: 2023.05.19
+
+- title: 2024 Birthday party
+  image: 2024_BIrthdayparty_1.jpeg
+  date: 2024.05.19
+
+- title: 2024 Birthday party
+  image: 2024_BIrthdayparty_2.jpeg
+  date: 2024.05.19
+
+- title: 2023 Birthday party
+  image: 2023_BIrthdayparty.jpeg
+  date: 2023.05.19
+
+- title: 2023 IEEE Pacific Visualization Symposium
+  image: 2023_PacificViz_1.jpeg
+  date: 2023.04.18
+
+- title: 2023 IEEE Pacific Visualization Symposium
+  image: 2023_PacificViz_2.jpeg
+  date: 2023.04.18
+
+- title: 2024 Lab Seminar
+  image: 2024_Lab_Seminar_1.jpeg
+  date: -
+
+- title: 2024 Lab Seminar
+  image: 2024_Lab_Seminar_2.jpeg
+  date: -
+
+- title: 2023 Seminar
+  image: 2023_Seminar_1.jpeg
+  date: -
+
+- title: 2023 Seminar
+  image: 2023_Seminar_2.jpeg
+  date: -
+
+- title: 2023 Seminar
+  image: 2023_Seminar_3.jpeg
+  date: -
