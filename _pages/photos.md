@@ -18,7 +18,7 @@ permalink: /photos/
 <h4>{{ pic.title }}</h4>
 <h6>{{ pic.date }}</h6>
 <div class="col-sm-4 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" heigth="95%" style="float: left; object-fit: cover;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
