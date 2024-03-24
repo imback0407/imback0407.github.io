@@ -13,10 +13,10 @@ permalink: /photos/
 {% assign even_odd = number_printed | modulo: images_per_row %}
 
 {% if even_odd == 0 %}
-<div class="row" style="overflow:auto;">
+<div class="row">
 {% endif %}
-<h4>{{ pic.title }}</h4>
-<h6>{{ pic.date }}</h6>
+<!-- <h4>{{ pic.title }}</h4>
+<h6>{{ pic.date }}</h6> -->
 <div class="col-sm-4 clearfix" height = "auto">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left;" />
 </div>
