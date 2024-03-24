@@ -18,20 +18,15 @@ permalink: /photos/
 <!-- <h4>{{ pic.title }}</h4>
 <h6>{{ pic.date }}</h6> -->
 <div class="col-sm-4 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style=" width:270px; height:350px; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == images_per_row | minus: 1 %}
+{% if even_odd == images_per_row | minus: 1 or forloop.last %}
 </div>
 {% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: images_per_row %}
-{% if even_odd != 0 %}
-</div>
-{% endif %}
 
 <p> &nbsp; </p>
