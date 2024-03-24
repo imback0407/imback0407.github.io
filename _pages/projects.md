@@ -7,7 +7,6 @@ permalink: /projects/
 ---
 
 ## Projects
-<p> &nbsp; </p>
 {% assign number_printed = 0 %}
 {% for publi in site.data.project %}
 
