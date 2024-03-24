@@ -54,20 +54,21 @@ More details to follow.
 </div>
 
 Our main research interests include Visualization, Operations Research, Graph Neural Networks, and their applications. Some of the specific ones are as follows: 
+<ul>
+    <li>Interactive Data Visualization</li>
+    <li>Visualization using Virtual Reality (VR) and Augmented Reality (AR)</li>
+    <li>Geospatial Data Visualization</li>
+    <li>Social Network Analysis</li>
+    <li>Drug Discovery and Development</li>
+    <li>Recommendation Systems</li>
+    <li>Visual Analytics for Big Data</li>
+    <li>Optimization of Network Structures using GNNs</li>
+    <li>Knowledge Graphs</li>
+    <li>Graph Mining</li>
+</ul>
 
-<li>Interactive Data Visualization</li>
-<li>Visualization using Virtual Reality (VR) and Augmented Reality (AR)</li>
-<li>Geospatial Data Visualization</li>
-<li>Social Network Analysis</li>
-<li>Drug Discovery and Development</li>
-<li>Recommendation Systems</li>
-<li>Visual Analytics for Big Data</li>
-<li>Optimization of Network Structures using GNNs</li>
-<li>Knowledge Graphs</li>
-<li>Graph Mining</li>
-
-<h6>Lab Introduction Video</h6>
-[![Video Label](http://img.youtube.com/vi/59_X9Z33u-8/0.jpg)](https://youtu.be/59_X9Z33u-8)
+<h4>Lab Introduction Video</h4>
+{% include video id="59_X9Z33u-8" provider="youtube" %}
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
