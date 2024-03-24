@@ -13,31 +13,33 @@ permalink: /projects/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-{% if even_odd == 0 %}
+<!-- {% if even_odd == 0 %}
 <div class="row">
-{% endif %}
+{% endif %} -->
 
-<div class="col-sm-6 clearfix">
+<p>- {{ publi.title }} {{ publi.organization }}  <em>({{ publi.date }})</em></p>
+
+<!-- <div class="col-sm-6 clearfix">
  <div class="well" style="overflow: auto;">
   <pubtit>{{ publi.title }}</pubtit>
-  <p>{{ publi.organization }}  <em>({{ publi.date }})</em></p>
+  <p>{{ publi.title }} {{ publi.organization }}  <em>({{ publi.date }})</em></p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 33%; object-fit: contain; float: left;" />
   <p>{{ publi.description }}</p>
  </div>
-</div>
+</div> -->
 
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+<!-- {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+<!-- {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 <p> &nbsp; </p>
