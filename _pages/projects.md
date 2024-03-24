@@ -7,7 +7,7 @@ permalink: /projects/
 ---
 
 ## Projects
-
+<p> &nbsp; </p>
 {% assign number_printed = 0 %}
 {% for publi in site.data.project %}
 
@@ -17,7 +17,7 @@ permalink: /projects/
 <div class="row">
 {% endif %} -->
 
-<p>- {{ publi.title }} {{ publi.organization }} </p>
+<p>- {{ publi.title }} (<em>({{ publi.date }})</em> {{ publi.organization }})</p>
 
 <!-- <div class="col-sm-6 clearfix">
  <div class="well" style="overflow: auto;">
