@@ -6,10 +6,11 @@ sitemap: false
 permalink: /members/
 ---
 
-
 # Group Members
 
  <!--**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
+
+## PhD / Ms - Ph.D Integrated
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -67,6 +68,71 @@ permalink: /members/
 {% endif %}
 
 {% endfor %}
+
+## Masters
+
+{% assign number_printed = 0 %}
+{% for member1 in site.data.team_members_master %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="width: 150px; height: 210px; object-fit: cover; float: left;" />
+  <h4>{{ member1.name }}</h4>
+  <h5>Research Interest : {{ member1.research }}</h5>
+  <i>{{ member1.info }} <br>email: <{{ member1.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member1.number_educ == 1 %}
+  <li> {{ member1.education1 }} </li>
+  {% endif %}
+
+  {% if member1.number_educ == 2 %}
+  <li> {{ member1.education1 | markdownify}} </li>
+  <li> {{ member1.education2 | markdownify}} </li>
+  {% endif %}
+
+  {% if member1.number_educ == 3 %}
+  <li> {{ member1.education1 }} </li>
+  <li> {{ member1.education2 }} </li>
+  <li> {{ member1.education3 }} </li>
+  {% endif %}
+
+  {% if member1.number_educ == 4 %}
+  <li> {{ member1.education1 }} </li>
+  <li> {{ member1.education2 }} </li>
+  <li> {{ member1.education3 }} </li>
+  <li> {{ member1.education4 }} </li>
+  {% endif %}
+
+  {% if member1.number_educ == 5 %}
+  <li> {{ member1.education1 }} </li>
+  <li> {{ member1.education2 }} </li>
+  <li> {{ member1.education3 }} </li>
+  <li> {{ member1.education4 }} </li>
+  <li> {{ member1.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
