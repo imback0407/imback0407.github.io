@@ -71,9 +71,4 @@ Our main research interests include Visualization, Operations Research, Graph Ne
 <h4>Lab Introduction Video</h4>
 <iframe src="https://www.youtube.com/embed/59_X9Z33u-8" width="95%" height="400px" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+
