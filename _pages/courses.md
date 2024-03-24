@@ -13,7 +13,7 @@ permalink: /courses/
 {% for course in site.data.courses %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-<div class="row">
+<div class="row" style="text-align: left;">
 <p>‣ <b>{{ course.title }}</b> {{ course.code }} (<em>{{ course.date }}</em>)</p>
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
