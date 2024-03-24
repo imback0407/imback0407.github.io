@@ -16,7 +16,7 @@ permalink: /alumni/
 
 <div class="col-sm-12 clearfix">
   <h5>{{ member.name }}</h5>
-  <h6>{{ member.duration }}</h6>
+  <h7>{{ member.duration }}</h7>
   <ul style="overflow: hidden">
 
   </ul>
