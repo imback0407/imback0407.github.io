@@ -43,6 +43,7 @@ More details to follow.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
     </div>
+    
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -68,7 +69,7 @@ Our main research interests include Visualization, Operations Research, Graph Ne
 </ul>
 
 <h4>Lab Introduction Video</h4>
-{% include video id="59_X9Z33u-8" provider="youtube" %}
+<iframe width="956" height="538" src="https://www.youtube.com/embed/59_X9Z33u-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
