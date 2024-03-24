@@ -7,11 +7,11 @@ permalink: /courses/
 ---
 
 ## Courses
-<h5><br>Data Visualization for Medical Applications<br /></h5> <h6>M3225.001000 001 (2024-1)</h6>
+<h4>‣ <b>Data Visualization for Medical Applications<b/></h4> <h5>M3225.001000 001 (2024-1)</h5>
 
-<h5><br>Visualization For Data Analytics<br /></h5> <h6>M3239.003100 001 (2023-2)</h6>
+<h4>‣ <b>Visualization For Data Analytics<b/></h4> <h5>M3239.003100 001 (2023-2)</h5>
 
-<h5><br>Visualization For Data Analytics<br /></h5> <h6>M3239.003100 001 (2022-2)</h6>
+<h4>‣ <b>Visualization For Data Analytics<b/></h4> <h5>M3239.003100 001 (2022-2)</h5>
 
 
 
