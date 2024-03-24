@@ -1,1 +1,106 @@
-/
+- name: Seungju Lee
+  photo: lsj.jpg
+  research: Operations Research
+  info: since Jul 2022
+  email: lotusist10@snu.ac.kr
+  number_educ: 1
+  education1: B.A. in English Language and Literature, Seoul National University (2019)
+
+- name: Yoonseok Lee
+  photo: default.png
+  research: Operations Research
+  info: since Jul 2023
+  email: lys8691@snu.ac.kr
+  number_educ: 3
+  education1: B.A. in Public Administration, Yonsei University (2018)
+  education2: B.B.A. in Business Administration, Yonsei University (2018)
+  education3: B.S. in Computer Science and Engineering, Yonsei University (2018)
+
+- name: Sojeong Yeon
+  photo: default.png
+  research: Operations Research
+  info: since Jul 2022
+  email: sjycka1004@snu.ac.kr
+  number_educ: 0
+
+- name: Sunyoung Park
+  photo: default.png
+  research: Visualization
+  info: since Dec 2022
+  email: psy0107@snu.ac.kr
+  number_educ: 1
+  education1: MSc in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
+
+- name: Sangwoo Heo
+  photo: sangwooheo.jpg
+  research: Visualization
+  info: since Dec 2022
+  email: sh10hsw@snu.ac.kr
+  number_educ: 1
+  education1: B.A. in Political Science, Seoul National University (2018)
+
+- name: Byungwoo Kim
+  photo: byungwookim.jpg
+  research: Operations Research
+  info: since Jul 2023
+  email: byungwoo.kim@snu.ac.kr
+  number_educ: 1
+  education1: B.S. in Physics, University of Seoul (2012)
+
+- name: Yooyeun Kim
+  photo: yykim.jpg
+  research: Visualization
+  info: since Jul 2023
+  email: swannekim@snu.ac.kr
+  number_educ: 2
+  education1: B.A. in Communication, Seoul National University (2023)
+  education2: B.S. in Computational Science, Seoul National University (2023)
+
+- name: Jeongjin Park
+  photo: jeongjinpark.jpg
+  research: GNN
+  info: since Oct 2023
+  email: pkmon1d@snu.ac.kr
+  number_educ: 1
+  education1: B.A. in Statistics, Korea University (2020)
+
+- name: Chan Gyu Lee
+  photo: changyu.jpg
+  research: Operations Research
+  info: since Jul 2023
+  email: changyu.lee@snu.ac.kr
+  number_educ: 1
+  education1: B.S. ICT Convergence and Industrial Engineering, Handong Global University (2023)
+
+- name: Yeeun Choi
+  photo: yeeun.jpg
+  research: Operations Research
+  info: since Jul 2023
+  email: yeeun.choi@snu.ac.kr
+  number_educ: 2
+  education1: B.A. in Geography, Seoul National University (2023)
+  education2: B.S. in Environmental Science, Seoul National University (2023)
+
+- name: Seonggu Shin
+  photo: default.png
+  research: Operations Research
+  info: since Feb 2024
+  email: ksofg@snu.ac.kr
+  number_educ: 1
+  education1: Confucianism/Eastern Philosophy, and D.S. in Sungkyunkwan University (2022)
+
+- name: Yoojin Jeong
+  photo: yoojinjeong.jpg
+  research: GNN
+  info: Since Jan 2024
+  email: rachel9904@snu.ac.kr
+  number_educ: 1
+  education1: B.S. in Data Analytics, The Ohio State University (2023)
+
+- name: Minwoo Han
+  photo: minwoo.jpg
+  research: GNN
+  info: Since Jan 2024
+  email: h9933k@snu.ac.kr
+  number_educ: 1
+  education1: B.S. in Mechanical & Aerospace Engineering, Seoul National University (2014)
