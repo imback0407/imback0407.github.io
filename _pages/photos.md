@@ -6,7 +6,7 @@ permalink: /photos/
 ---
 
 # Photos
-
+<p> &nbsp; </p>
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
