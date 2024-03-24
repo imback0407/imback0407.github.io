@@ -18,14 +18,14 @@ permalink: /projects/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well" style="overflow: auto;">
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.organization }} <em>{{ publi.date }}</em></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="object-fit: fill; float: left;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 33%; object-fit: contain; float: left;" />
   <p>{{ publi.description }}</p>
-
  </div>
 </div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
