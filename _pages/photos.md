@@ -15,10 +15,10 @@ permalink: /photos/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-<h5>{{ pic.title }}</h5>
+<h4>{{ pic.title }}</h4>
 <h6>{{ pic.date }}</h6>
 <div class="col-sm-4 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
