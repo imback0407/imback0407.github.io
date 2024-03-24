@@ -9,6 +9,17 @@ permalink: /courses/
 ## Courses
 <p> &nbsp; </p>
 
-<p>‣ <b>Data Visualization for Medical Applications</b> M3225.001000 001 (2024-1)</p>
-<p>‣ <b>Visualization For Data Analytics</b> M3239.003100 001 (2023-2)</p>
-<p>‣ <b>Visualization For Data Analytics</b> M3239.003100 001 (2022-2)</p>
+{% assign number_printed = 0 %}
+{% for course in site.data.courses %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+<p>‣ <b>{{ course.title }}</b> {{ course.code }} (<em>{{ course.date }}</em>)</p>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+<p> &nbsp; </p>
