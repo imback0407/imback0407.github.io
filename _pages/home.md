@@ -55,16 +55,16 @@ More details to follow.
 
 Our main research interests include Visualization, Operations Research, Graph Neural Networks, and their applications. Some of the specific ones are as follows: 
 
-*Interactive Data Visualization
-*Visualization using Virtual Reality (VR) and Augmented Reality (AR)
-*Geospatial Data Visualization
-*Social Network Analysis
-*Drug Discovery and Development
-*Recommendation Systems
-*Visual Analytics for Big Data
-*Optimization of Network Structures using GNNs
-*Knowledge Graphs
-*Graph Mining
+<li>Interactive Data Visualization</li>
+<li>Visualization using Virtual Reality (VR) and Augmented Reality (AR)</li>
+<li>Geospatial Data Visualization</li>
+<li>Social Network Analysis</li>
+<li>Drug Discovery and Development</li>
+<li>Recommendation Systems</li>
+<li>Visual Analytics for Big Data</li>
+<li>Optimization of Network Structures using GNNs</li>
+<li>Knowledge Graphs</li>
+<li>Graph Mining</li>
 
 <h6>Lab Introduction Video</h6>
 [![Video Label](http://img.youtube.com/vi/59_X9Z33u-8/0.jpg)](https://youtu.be/59_X9Z33u-8)
