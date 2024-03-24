@@ -13,7 +13,7 @@ permalink: /photos/
 {% assign even_odd = number_printed | modulo: images_per_row %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row" style="overflow:auto;">
 {% endif %}
 <h4>{{ pic.title }}</h4>
 <h6>{{ pic.date }}</h6>
