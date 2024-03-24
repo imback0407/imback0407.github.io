@@ -20,7 +20,7 @@ permalink: /projects/
 <div class="col-sm-6 clearfix">
  <div class="well" style="overflow: auto;">
   <pubtit>{{ publi.title }}</pubtit>
-  <p>{{ publi.organization }} <em>{{ publi.date }}</em></p>
+  <p>{{ publi.organization }} (<em>{{ publi.date }}</em>)</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 33%; object-fit: contain; float: left;" />
   <p>{{ publi.description }}</p>
  </div>
