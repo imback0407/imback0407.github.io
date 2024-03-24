@@ -10,7 +10,7 @@ permalink: /members/
 
  <!--**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
-<h4>PhD / Ms - Ph.D Integrated</h4>
+<h3>PhD / Ms - Ph.D Integrated</h3>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -69,7 +69,7 @@ permalink: /members/
 
 {% endfor %}
 
-<h4>Masters</h4>
+<h3>Masters</h3>
 
 {% assign number_printed = 0 %}
 {% for member1 in site.data.team_members_master %}
