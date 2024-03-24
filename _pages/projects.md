@@ -13,13 +13,13 @@ permalink: /projects/
 {% for publi in site.data.project %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-
+<div class="row">
 <!-- {% if even_odd == 0 %}
 <div class="row">
 {% endif %} -->
-<div class="row">
+
 <p>‣ <b>{{ publi.title }}</b> (<em>{{ publi.date }}</em> {{ publi.organization }})</p>
-</div>
+
 <!-- <div class="col-sm-6 clearfix">
  <div class="well" style="overflow: auto;">
   <pubtit>{{ publi.title }}</pubtit>
@@ -31,7 +31,7 @@ permalink: /projects/
 
 
 {% assign number_printed = number_printed | plus: 1 %}
-
+</div>
 <!-- {% if even_odd == 1 %}
 </div>
 {% endif %} -->
