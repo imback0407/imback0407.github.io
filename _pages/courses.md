@@ -6,14 +6,14 @@ sitemap: false
 permalink: /courses/
 ---
 
-## Courses
-<p> &nbsp; </p>
+## Courses 
+<p> &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 
 {% assign number_printed = 0 %}
 {% for course in site.data.courses %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-<p>‣ <b>{{ course.title }}</b> {{ course.code }} (<em>{{ course.date }}</em>) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+<p>‣ <b>{{ course.title }}</b> {{ course.code }} (<em>{{ course.date }}</em>) </p>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% endfor %}
