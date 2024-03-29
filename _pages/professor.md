@@ -8,10 +8,10 @@ permalink: /professor/
 
 <h2>Professor</h2>
 <div class="row">
-  <div class= "col-3 clearfix">
+  <div class= "col-md-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Professor.jpeg" class="img-responsive" width="25%" style="float: left" />
   </div>
-<div class="col-9 clearfix">
+<div class="col-md-9">
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-chat-left-text me-3"></i> Bio</h2>
         <p>Hyunwoo Park is an Associate Professor in the Graduate School of Data Science at Seoul National University. Before joining SNU, he was an Assistant Professor in Management Sciences at the Fisher College of Business and a Core Faculty for the Translational Data Analytics Institute (TDAI) at The Ohio State University. Prior to OSU, he was a postdoctoral fellow at the Tennenbaum Institute at Georgia Tech. He holds a Ph.D. in Industrial Engineering from Georgia Tech, a Master of Information Management and Systems from UC Berkeley, and a B.S. in Electrical Engineering from Seoul National University.</p>
