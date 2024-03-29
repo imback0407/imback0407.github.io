@@ -7,12 +7,11 @@ permalink: /professor/
 ---
 
 <h2>Professor</h2>
-
-<div class="row mt-5">
+<!--<div class="row mt-5">
   <div class= "col-md-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   </div>
-<div class="col-md-9">
+<div class="col-md-9">-->
         <hr class="w-25 d-md-none d-lg-none d-xl-none d-xxl-none">
         <h2 class="mb-3"><i class="bi-chat-left-text me-3"></i> Bio</h2>
         <p>Hyunwoo Park is an Associate Professor in the Graduate School of Data Science at Seoul National University. Before joining SNU, he was an Assistant Professor in Management Sciences at the Fisher College of Business and a Core Faculty for the Translational Data Analytics Institute (TDAI) at The Ohio State University. Prior to OSU, he was a postdoctoral fellow at the Tennenbaum Institute at Georgia Tech. He holds a Ph.D. in Industrial Engineering from Georgia Tech, a Master of Information Management and Systems from UC Berkeley, and a B.S. in Electrical Engineering from Seoul National University.</p>
@@ -393,6 +392,6 @@ permalink: /professor/
         <li><strong>Visual Supply Chain Management</strong>: <a href="http://visualscm.herokuapp.com/" target="_blank">http://visualscm.herokuapp.com/</a></li>
         <li><strong>ecoxight</strong> (Business Ecosystem Intelligence System): <a href="https://ecoxight.com/" target="_blank">https://ecoxight.com/</a></li>
         </ul>
-    </div>
+<!--     </div>
   </div>
-</div>
+</div> -->
