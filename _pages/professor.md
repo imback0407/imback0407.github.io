@@ -26,7 +26,6 @@ permalink: /professor/
         <p>His research interests include business and data analytics with an emphasis on visualization, supply chain management from the network perspective, and technology and innovation management in the presence of digital platforms.</p>
         <p>His research has been published in leading journals including Academy of Management Review, Decision Sciences, Decision Support Systems, IEEE Transactions on Engineering Management (TEM), IEEE Transactions on Visualization and Computer Graphics (TVCG), Journal of Operations Management, and Research Policy.</p>
         <p>He won the TIM (Technology and Innovation Management) Division Best Student Paper Award at the Academy of Management in 2015 and the OCIS (Organizational Communication and Information Systems) Division Best Paper Award at the Academy of Management in 2017. His paper was a finalist for the Chan Hahn Best Paper Award in the OSCM (Operations and Supply Chain Management) Division at the Academy of Management in 2020. His dissertation was awarded a Runner-up for the INFORMS TIMES (Technology, Innovation Management and Entrepreneurship Section) Best Dissertation Award in 2017.</p>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-briefcase me-3"></i> Employment</h2>
         <h4>Seoul National University, Seoul, South Korea</h4>
@@ -42,7 +41,6 @@ permalink: /professor/
         <ul>
           <li>Postdoctoral Fellow, Tennenbaum Institute, 2015 – 2017</li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-bank me-3"></i> Education</h2>
         <h4>Georgia Institute of Technology, Atlanta, GA, USA</h4>
@@ -64,45 +62,6 @@ permalink: /professor/
         <ul>
           <li>B.S. in Electrical Engineering (<em>summa cum laude</em>), 2008</li>
         </ul>
-
-        <hr class="w-25">
-        <h2 class="mb-3"><i class="bi-newspaper me-3"></i> Publications</h2>
-        <ol reversed="" style="list-style-type: decimal">
-        <li>Lee J, Jung HJ, <strong>Park H</strong>. 2022. Rare is Beautiful? The Interplay Between Rareness, Technology Search, and Technology Value. <em>Production and Operations Management</em>, Accepted</li>
-        <li><strong>Park H</strong>. 2022. [Book Review] A History of Data Visualization and Graphic Communication. <em>Journal of the American Statistical Association</em>, Forthcoming</li>
-        <li>Lee J, <strong>Park H</strong>, Zaggl M. 2022. When to Signal? Contingencies for Career-Motivated Contributions in Online Collaboration Communities. <em>Journal of the Association for Information Systems</em>, Accepted</li>
-        <li><strong>Park H</strong>, Blanco C, Bendoly E. 2022. Vessel Sharing and its Impact on Maritime Operations and Carbon Emissions. <em>Production and Operations Management</em>, Accepted</li>
-        <li>Chopra S, <strong>Park H</strong>, Shim S. 2022. Extended Graph Formulation for the Inequity Aversion Pricing Problem on Social Networks. <em>INFORMS Journal on Computing</em>, Forthcoming [<a href="https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1148" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, <strong>Park H</strong>. 2019. Interfirm Collaboration and Firm Value in Software Ecosystems: Evidence from Cloud Computing. <em>IEEE Transactions on Engineering Management</em>, 66(4), pp.568-582 [<a href="https://ieeexplore.ieee.org/document/8424065/" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, <strong>Park H</strong>, Chao RO. 2019. Visual Analysis of Venture Similarity in Entrepreneurial Ecosystems. <em>IEEE Transactions on Engineering Management</em>, 66(3), pp.368-380 [<a href="https://ieeexplore.ieee.org/document/8425782/" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li><strong>Park H</strong>, Bellamy MA, Basole RC. 2018. Structural Anatomy and Evolution of Supply Chain Alliance Networks: A Multi-Method Approach. <em>Journal of Operations Management</em>, 63, pp.79-96 [<a href="https://www.sciencedirect.com/science/article/pii/S0272696318300664" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Park BS, <strong>Park H</strong>, Ramanujam R. 2018. <em>Tua Culpa</em>: When an Organization Blames its Partner for Failure in a Shared Task. <em>Academy of Management Review</em>, 43(4), pp.792-811 [<a href="https://journals.aom.org/doi/10.5465/amr.2016.0305" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, Srinivasan A, <strong>Park H</strong>, Patel S. 2018. ecoxight: Discovery, Exploration and Analysis of Business Ecosystems using Interactive Visualization. <em>ACM Transactions on Management Information Systems</em>, 9(2), no. 6 [<a href="https://dl.acm.org/citation.cfm?id=3185047" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Ivannikova E, <strong>Park H</strong>, Hämäläinen T, Lee K. 2018. Revealing Community Structures by Ensemble Clustering using Group Diffusion. <em>Information Fusion</em>, 42, pp.24-36 [<a href="http://www.sciencedirect.com/science/article/pii/S1566253517305535" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Srinivasan A, <strong>Park H</strong>, Endert A, Basole RC. 2018. Graphiti: Interactive Specification of Attribute-based Edges for Network Modeling and Visualization. <em>IEEE Transactions on Visualization and Computer Graphics</em>, 24(1), pp.226-235 [<a href="http://ieeexplore.ieee.org/document/8019835/" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Kim B-C, Lee J, <strong>Park H</strong>. 2017. Two-Sided Platform Competition with Multihoming Agents: An Empirical Study on the Daily Deals Market. <em>Information Economics and Policy</em>, 41, pp.36-53 [<a href="http://www.sciencedirect.com/science/article/pii/S0167624516300907" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC<sup>*</sup>, Bellamy MA<sup>*</sup>, <strong>Park H</strong><sup>*</sup>. 2017. Visualization of Innovation in Global Supply Chain Networks. <em>Decision Sciences</em>, 48(2), pp.288-306 [<a href="http://onlinelibrary.wiley.com/doi/10.1111/deci.12213/abstract" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li><strong>Park H</strong>, Bellamy MA, Basole RC. 2016. Visual Analytics for Supply Network Management: System Design and Evaluation. <em>Decision Support Systems</em>, 91, pp.89-102 [<a href="http://www.sciencedirect.com/science/article/pii/S0167923616301397" target="_blank">Link <i class="bi-link-45deg"></i></a>] [<a href="http://visualscm.herokuapp.com/" target="_blank">Live Demo <i class="bi-display"></i></a>] </li>
-        <li><strong>Park H</strong><sup>*</sup>, Basole RC<sup>*</sup>. 2016. Bicentric Diagrams: Design and Applications of a Graph-Based Relational Set Visualization Technique. <em>Decision Support Systems</em>, 84, pp.64-77 [<a href="http://www.sciencedirect.com/science/article/pii/S016792361630001X" target="_blank">Link <i class="bi-link-45deg"></i></a>] [<a href="http://bicentric.herokuapp.com/" target="_blank">Live Demo <i class="bi-display"></i></a>] </li>
-        <li>Basole RC, Bellamy MA, <strong>Park H</strong>, Putrevu J. 2016. Computational Analysis and Visualization of Global Supply Network Risks. <em>IEEE Transactions on Industrial Informatics</em>, 12(3), pp.1206-1213 [<a href="https://ieeexplore.ieee.org/document/7445240/" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li><strong>Park H</strong>, Lee J, Kim BC. 2015. Project Selection in NIH: A Natural Experiment from ARRA. <em>Research Policy</em>, 44(6), pp.1145-1159 [<a href="http://www.sciencedirect.com/science/article/pii/S0048733315000396" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, Braunstein M, Kumar V, <strong>Park H</strong>, Kahng M, Chau DHP, Tamersoy A, Hirsh DA, Serban N, Bost J, Lesnick B, Schissel BL, Thompson M. 2015. Understanding Variations in Pediatric Asthma Care Processes in the Emergency Department using Visual Analytics. <em>Journal of the American Medical Informatics Association (JAMIA)</em>, 22(2), pp.318-323 [<a href="http://jamia.oxfordjournals.org/content/22/2/318.abstract" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, Russell MG, Hutamaki J, Rubens N, Still K, <strong>Park H</strong>. 2015. Understanding Business Ecosystem Dynamics: A Data-Driven Approach. <em>ACM Transactions on Management Information Systems</em>, 6(2), no. 6 [<a href="http://dl.acm.org/citation.cfm?id=2724730" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, Qamar A, <strong>Park H</strong>, Paredis C, McGinnis LF. 2015. Visual Analytics for Early-Phase Complex Engineered System Design Support. <em>IEEE Computer Graphics and Applications</em>, 35(2), pp.41-51 [<a href="https://ieeexplore.ieee.org/document/7006349/" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, <strong>Park H</strong>, Barnett BC. 2015. Coopetition and Convergence in the ICT Ecosystem. <em>Telecommunications Policy</em>, 39(7), pp.537-552 [<a href="http://www.sciencedirect.com/science/article/pii/S0308596114000627" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li><strong>Park H</strong>, Lee K. 2014. Dependence Clustering, a Method Revealing Community Structure with Group Dependence. <em>Knowledge-Based Systems</em>, 60, pp.58-72 [<a href="http://www.sciencedirect.com/science/article/pii/S095070511400015X" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li>Basole RC, Bellamy MA, Clear T, Dabkowski M, Monreal J, <strong>Park H</strong>, Valerdi R, Van Aken EM. 2013. Challenges and Opportunities for Enterprise Transformation Research. <em>Journal of Enterprise Transformation</em>, 3(4), pp.330-352 [<a href="http://www.tandfonline.com/doi/abs/10.1080/19488289.2013.861704#.VAc4x2RN45w" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        <li><strong>Park H</strong>, Clear T, Rouse WB, Basole RC, Braunstein M, Brigham KL, Cunningham L. 2012. Multi-Level Simulations of Health Delivery Enterprises Flight Simulators for Policy, Strategy, Planning, and Management. <em>Service Science</em>, 4(3), pp.253-268 [<a href="http://pubsonline.informs.org/doi/abs/10.1287/serv.1120.0022" target="_blank">Link <i class="bi-link-45deg"></i></a>] </li>
-        </ol>
-
-        <hr class="w-25">
-        <h2 class="mb-3"><i class="bi-journal-album me-3"></i> Referred Conference Proceedings</h2>
-        <ol reversed="" style="list-style-type: decimal">
-        <li>Lee J, Jung HJ, <strong>Park H</strong>. 2020. Rare is Beautiful? Rare Technological Resources and Value Implications. <em>Academy of Management Best Paper Proceedings</em>, no. 12962 </li>
-        <li><strong>Park H</strong>, Basole RC. 2015. Product Innovation Contest on Service Network: Competitive Spillover from Exclusive Dealing. <em>Academy of Management Best Paper Proceedings</em>, no. 13284 </li>
-        <li><strong>Park H</strong>, Lee J. 2015. An (Almost) Free Lunch? Social Recognition and Knowledge Sharing Behavior in a Virtual Community. <em>Academy of Management Best Paper Proceedings</em>, no. 13279</li>
-        </ol>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-book me-3"></i> Book Chapters and Technical Reports</h2>
         <ul>
@@ -110,7 +69,6 @@ permalink: /professor/
         <li>Glushko RJ. <em>Discipline of Organizing</em>. MIT Press. May 2013 (Chapter 9: Interactions with Resources) </li>
         <li>Dai JG, <strong>Park H</strong>. <em>Stochastic Manufacturing and Service Systems</em>. (Unpublished lecture notes)</li>
         </ul>
-        
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-award me-3"></i> Awards, Grants, and Honors</h2>
         <h4>Awards and Honors</h4>
@@ -126,7 +84,6 @@ permalink: /professor/
         <li><strong>Presidential Scholar</strong>, awarded by <em>President of the Republic of Korea</em>, 2002</li>
         <li><strong>Gold Medalist</strong>, <em>33rd International Chemistry Olympiad</em>, 2001</li>
         </ul>
-
         <h4>Fellowship</h4>
         <ul>
         <li>Tennenbaum Institute Fellow, <em>Georgia Institute of Technology</em>, 2010-2017</li>
@@ -138,7 +95,6 @@ permalink: /professor/
         <li>Overseas Study Scholarship, <em>Samsung Foundation</em>, 2008-2010</li>
         <li>Undergraduate Fellowship, <em>Korea Foundation for Advanced Studies</em>, 2002-2008</li>
         </ul>
-
         <h4>Grants</h4>
         <ul>
         <li><strong>PI</strong>, <em>Korea NRF Emerging Scholar Program</em> (Equivalent to NSF Career), 2022-2027</li>
@@ -149,7 +105,6 @@ permalink: /professor/
         <li><em>NET Institute</em> (Networks, Electronic Commerce, and Telecommunications) Grants for Summer 2012</li>
         <li>Research Promotion Grant, <em>Korea Science and Engineering Foundation</em>, 2002-2008</li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-pencil-square me-3"></i> Teaching Experience</h2>
         <h4>The Ohio State University, Fisher College of Business</h4>
@@ -174,19 +129,16 @@ permalink: /professor/
             </ul>
           </li>
         </ul>
-        
         <h4>Georgia Institute of Technology, School of Industrial and Systems Engineering</h4>
         <ul>
         <li>Instructor, ISyE 3232 Stochastic Manufacturing and Service Systems (Undergraduate Core Stochastic Course), SU11, Average course evaluation rating: 4.4/5.0</li>
         <li>TA for Prof. Jim Dai, ISyE 3232, SP11</li>
         </ul>
-        
         <h4>UC Berkeley, School of Information</h4>
         <ul>
         <li>TA for Prof. Robert Glushko, INFO 290-1 Information and Service System Design, SP09</li>
         <li>TA for Prof. John Chuang, INFO 206 Distributed Computing Applications and Infrastructure, AU09</li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-person-badge me-3"></i> Professional Services</h2>
         <h4>Professional Membership</h4>
@@ -197,25 +149,21 @@ permalink: /professor/
         <li>Academy of Management (AOM)</li>
         <li>Industry Studies Association (ISA)</li>
         </ul>
-
         <h4>Board Officer</h4>
         <ul>
         <li>VP of Programs for INFORMS TIMES Section 2022</li>
         <li>VP of Membership &amp; Communication for INFORMS TIMES Section 2021</li>
         </ul>
-        
         <h4>Track Chair</h4>
         <ul>
         <li>TIME/NPD Track for INFORMS Annual Meeting 2022</li>
         <li>NPD Track for INFORMS Annual Meeting 2021</li>
         </ul>
-
         <h4>Session Chair</h4>
         <ul>
         <li>INFORMS Annual Meeting 2017, 2019, 2020</li>
         <li>POMS Annual Meeting 2016, 2019</li>
         </ul>
-
         <h4>Departmental Service</h4>
         <h5>Seoul National University</h5>
         <ul>
@@ -228,13 +176,11 @@ permalink: /professor/
         <li>Analytics Curriculum Committee 2020-2021</li>
         <li>Faculty Recruiting Committee 2018</li>
         </ul>
-        
         <h4>Editorial Review Board</h4>
         <ul>
         <li>Decision Sciences Journal (DSJ)</li>
         <li>Journal of Operations Management (JOM)</li>
         </ul>
-
         <h4>Ad-hoc Reviewer</h4>
         <h5>Journals</h5>
         <ul>
@@ -244,7 +190,6 @@ permalink: /professor/
         <ul>
         <li>Academy of Management Conference (AOM), ACM SIGCHI Conference (CHI), Decision Sciences Institute (DSI), Hawaii International Conference on System Sciences (HICSS), IEEE Technology and Engineering Management Conference (TEMSCON), IEEE Visualization Conference (VIS), International Conference on Information Systems (ICIS)</li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-easel me-3"></i> Invited Talks</h2>
         <ul>
@@ -266,7 +211,6 @@ permalink: /professor/
         <li>College of Business, University of Illinois at Chicago, Chicago, IL, USA, 2016</li>
         <li>Graduate School of Convergence Science and Technology, Seoul National University, S. Korea, 2012</li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-people me-3"></i> Conference Presentations</h2>
         <ul>
@@ -418,7 +362,6 @@ permalink: /professor/
         <li>Southern Economic Association Conference, Tampa, FL, 2013<sup>*</sup></li>
         </ul></li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-archive me-3"></i> Other Research and Professional Experience</h2>
         <ul>
@@ -449,7 +392,6 @@ permalink: /professor/
         <li>Maintained decision support and procurement systems within security domain</li>
         </ul></li>
         </ul>
-
         <hr class="w-25">
         <h2 class="mb-3"><i class="bi-terminal me-3"></i> Software</h2>
         <ul>
@@ -458,7 +400,6 @@ permalink: /professor/
         <li><strong>Visual Supply Chain Management</strong>: <a href="http://visualscm.herokuapp.com/" target="_blank">http://visualscm.herokuapp.com/</a></li>
         <li><strong>ecoxight</strong> (Business Ecosystem Intelligence System): <a href="https://ecoxight.com/" target="_blank">https://ecoxight.com/</a></li>
         </ul>
-
       </div>
 </div>
 
