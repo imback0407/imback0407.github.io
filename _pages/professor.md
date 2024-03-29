@@ -1,6 +1,6 @@
 ---
 title: "ViBA - Professor"
-layout: gridlay
+layout: homelay
 excerpt: "ViBA: Professor"
 sitemap: false
 permalink: /professor/
