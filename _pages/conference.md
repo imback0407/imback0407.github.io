@@ -7,7 +7,6 @@ permalink: /conference/
 ---
 
 <h2>Conference&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
-<p> &nbsp; </p>
 {% for publi in site.data.conference %}
 
   {{ publi.title }} <br />
