@@ -400,7 +400,6 @@ permalink: /professor/
         <li><strong>Visual Supply Chain Management</strong>: <a href="http://visualscm.herokuapp.com/" target="_blank">http://visualscm.herokuapp.com/</a></li>
         <li><strong>ecoxight</strong> (Business Ecosystem Intelligence System): <a href="https://ecoxight.com/" target="_blank">https://ecoxight.com/</a></li>
         </ul>
-      </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
