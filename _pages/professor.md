@@ -19,6 +19,7 @@ permalink: /professor/
 
 <div class="col-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  
   {% raw %}
   <div class="col-md-9">
         <hr class="w-25 d-md-none d-lg-none d-xl-none d-xxl-none">
@@ -403,6 +404,7 @@ permalink: /professor/
         </ul>
       </div>
   {% endraw %}
+  
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
 
