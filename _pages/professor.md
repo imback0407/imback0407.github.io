@@ -6,7 +6,7 @@ sitemap: false
 permalink: /professor/
 ---
 
-# Professor
+<h2>Professor</h2>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_professor %}
