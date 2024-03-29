@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-## Projects
+<h2>Projects</h2>
 <p> &nbsp; </p>
 
 {% assign number_printed = 0 %}
