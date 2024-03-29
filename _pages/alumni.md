@@ -6,7 +6,7 @@ sitemap: false
 permalink: /alumni/
 ---
 
-# Alumni
+<h2>Alumni</h2>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
