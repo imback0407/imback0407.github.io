@@ -5,7 +5,7 @@ excerpt: "ViBA -- Photos"
 permalink: /photos/
 ---
 
-# Photos
+<h2>Photos</h2>
 <p> &nbsp; </p>
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
