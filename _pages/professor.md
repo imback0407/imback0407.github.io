@@ -20,7 +20,6 @@ permalink: /professor/
 <div class="col-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
-  {% raw %}
   <div class="col-md-9">
         <hr class="w-25 d-md-none d-lg-none d-xl-none d-xxl-none">
         <h2 class="mb-3"><i class="bi-chat-left-text me-3"></i> Bio</h2>
@@ -403,8 +402,6 @@ permalink: /professor/
         <li><strong>ecoxight</strong> (Business Ecosystem Intelligence System): <a href="https://ecoxight.com/" target="_blank">https://ecoxight.com/</a></li>
         </ul>
       </div>
-  {% endraw %}
-  
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
 
