@@ -7,7 +7,7 @@ permalink: /professor/
 ---
 
 <h2>Professor</h2>
-<div class="row mt-5">
+<div class="row">
   <div class= "col-md-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Professor.jpeg" class="img-responsive" width="25%" style="float: left" />
   </div>
