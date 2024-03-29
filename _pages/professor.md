@@ -8,15 +8,7 @@ permalink: /professor/
 
 <h2>Professor</h2>
 
-{% assign number_printed = 0 %}
-{% for member in site.data.team_professor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
 <div class="col-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
         <hr class="w-25 d-md-none d-lg-none d-xl-none d-xxl-none">
@@ -399,14 +391,8 @@ permalink: /professor/
         <li><strong>Visual Supply Chain Management</strong>: <a href="http://visualscm.herokuapp.com/" target="_blank">http://visualscm.herokuapp.com/</a></li>
         <li><strong>ecoxight</strong> (Business Ecosystem Intelligence System): <a href="https://ecoxight.com/" target="_blank">https://ecoxight.com/</a></li>
         </ul>
+  </div>
 </div>
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
