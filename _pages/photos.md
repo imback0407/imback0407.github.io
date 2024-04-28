@@ -37,6 +37,9 @@ permalink: /photos/
 </div>
 {% endif %}
 
+{% if even_odd == 3 %}
+</div>
+{% endif %}
 
 <p> &nbsp; </p>
 <p> &nbsp; </p>
