@@ -18,7 +18,7 @@ permalink: /photos/
 {% endif %}
 <!-- <h4>{{ pic.title }}</h4>
 <h6>{{ pic.date }}</h6> -->
-<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix" width="341px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover;" />
 </div>
 
