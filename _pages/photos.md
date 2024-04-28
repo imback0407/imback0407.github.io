@@ -16,10 +16,10 @@ permalink: /photos/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
-  <h4>{{ pic.title }}</h4>
-  <h6>{{ pic.date }}</h6>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover;" />
+<div class="col-sm-3 clearfix" style="text-align: left;">
+  <h5 style="text-align: left;">{{ pic.title }}</h5>
+  <h6 style="text-align: left;">{{ pic.date }}</h6>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: left;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
