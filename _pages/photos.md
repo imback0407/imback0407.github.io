@@ -15,8 +15,8 @@ permalink: /photos/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-<!-- <h4>{{ pic.title }}</h4>
-<h6>{{ pic.date }}</h6> -->
+<h4>{{ pic.title }}</h4>
+<h6>{{ pic.date }}</h6>
 <div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover;" />
 </div>
