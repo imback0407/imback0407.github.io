@@ -10,23 +10,35 @@ permalink: /photos/
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
-{% assign images_per_row = 3 %}
-{% assign even_odd = number_printed | modulo: images_per_row %}
+{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 <!-- <h4>{{ pic.title }}</h4>
 <h6>{{ pic.date }}</h6> -->
-<div class="col-sm-4 clearfix" style="max-width: 320px;">
+<div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-</div>
-{% if even_odd == images_per_row | minus: 1 or forloop.last %}
 
+{% if even_odd > 2 %}
+</div>
 {% endif %}
 {% endfor %}
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
 <p> &nbsp; </p>
