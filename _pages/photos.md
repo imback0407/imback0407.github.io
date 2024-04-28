@@ -23,10 +23,10 @@ permalink: /photos/
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
+</div>
 {% if even_odd == images_per_row | minus: 1 or forloop.last %}
 
 {% endif %}
-</div>
 {% endfor %}
 
 <p> &nbsp; </p>
