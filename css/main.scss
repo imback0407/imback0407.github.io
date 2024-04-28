@@ -11,6 +11,7 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+	
 }
 
 figcaption {
@@ -43,8 +44,7 @@ firstp {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 1000px;
-  min-width: 1000px;
+  width: 1000px;
 }
 
 /* Home, News */
