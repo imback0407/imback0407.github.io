@@ -17,7 +17,7 @@ permalink: /photos/
 {% endif %}
 
 <div class="col-sm-3 clearfix" style="text-align: left;">
-  <b><h5 style="text-align: left;">{% if pic.title == "" %}Lab Pic{% else %}{{ pic.title }}{% endif %}</h5></b>
+  <h5 style="text-align: left;">{% if pic.title == "" %}Lab Pic{% else %}<b>{{ pic.title }}</b>{% endif %}</h5>
   <h6 style="text-align: left;">{% if pic.date == "" %}YYYY.MM.DD{% else %}{{ pic.date }}{% endif %}</h6>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: left;" />
 </div>
