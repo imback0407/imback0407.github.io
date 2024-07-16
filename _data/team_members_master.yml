@@ -29,7 +29,7 @@
   info: since Dec 2022
   email: psy0107@snu.ac.kr
   number_educ: 1
-  education1: MSc in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
+  education1: M.Sc. in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
 
 - name: Sangwoo Heo
   photo: sangwooheo.jpg
@@ -70,7 +70,7 @@
   info: since Jul 2023
   email: changyu.lee@snu.ac.kr
   number_educ: 1
-  education1: B.S. ICT Convergence and Industrial Engineering, Handong Global University (2023)
+  education1: B.S. in ICT Convergence and Industrial Engineering, Handong Global University (2023)
 
 - name: Yeeun Choi
   photo: yeeun.jpg
@@ -86,8 +86,9 @@
   research: Operations Research
   info: since Feb 2024
   email: ksofg@snu.ac.kr
-  number_educ: 1
-  education1: Confucianism/Eastern Philosophy, and D.S. in Sungkyunkwan University (2022)
+  number_educ: 2
+  education1: B.A. in Confucianism & Eastern Philosophy, Sungkyunkwan University (2022)
+  education1: B.S. in Data Science, Sungkyunkwan University (2022)
 
 - name: Yoojin Jeong
   photo: yoojinjeong.jpg
