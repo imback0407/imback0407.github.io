@@ -88,7 +88,7 @@
   email: ksofg@snu.ac.kr
   number_educ: 2
   education1: B.A. in Confucianism and Eastern Philosophy, Sungkyunkwan University (2022)
-  education1: B.S. in Data Science, Sungkyunkwan University (2022)
+  education2: B.S. in Data Science, Sungkyunkwan University (2022)
 
 - name: Yoojin Jeong
   photo: yoojinjeong.jpg
@@ -105,3 +105,19 @@
   email: h9933k@snu.ac.kr
   number_educ: 1
   education1: B.S. in Mechanical and Aerospace Engineering, Seoul National University (2014)
+
+- name: Jaeseong Ju
+  photo: jaeseong.jpg
+  research: Visualization
+  info: Since Jul 2024
+  email: cg3731@snu.ac.kr
+  number_educ: 1
+  education1: B.S. in Electriacal and Computer Engineering, Seoul National University (2024)
+
+- name: Dokyung Lee
+  photo: dokyung.jpg
+  research: Visualization
+  info: Since Jul 2024
+  email: didrodldk@snu.ac.kr
+  number_educ: 1
+  education1: B.S. in Physical Education, Seoul National University (2024)
