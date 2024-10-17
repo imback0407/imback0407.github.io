@@ -59,4 +59,4 @@ permalink: /alumni/
 </div>
 {% endif %}
 
-{% endfor % }
+{% endfor %}
