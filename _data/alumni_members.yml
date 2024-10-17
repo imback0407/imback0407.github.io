@@ -9,7 +9,7 @@
 
 - name: Seungju Lee
   photo: lsj.jpg
-  current_status: -
+  current_status: 
   duration: Jul 2022  - Aug 2024 
   email: lotusist10@snu.ac.kr
   number_educ: 2
@@ -24,6 +24,15 @@
   number_educ: 2
   education1: Master of Data Science, Seoul National University
   education2: B.S. in Physics, University of Seoul
+
+- name: Chansong Lim
+  photo: chansonglim.jpg
+  current_status: PhD student in Computer Science, UC Riverside
+  duration: Mar 2022 - Feb 2024
+  email: chansong.lim@email.ucr.edu
+  number_educ: 2
+  education1: Master of Data Science, Seoul National University
+  education2: BA in Western History, Seoul National University
 
 
 
