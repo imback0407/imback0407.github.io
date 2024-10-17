@@ -1,11 +1,11 @@
-- name: Sangwoo Heo
-  photo: sangwooheo.jpg
-  current_status: NAVER Corporation / AI Safety Research @Future AI Center
-  duration: Jan 2023 - Aug 2024
-  email: sangwoo.heo@navercorp.com
+- name: Chansong Lim
+  photo: default.jpg
+  current_status: PhD student in Computer Science, UC Riverside
+  duration: Mar 2022 - Feb 2024
+  email: chansong.lim@email.ucr.edu
   number_educ: 2
   education1: Master of Data Science, Seoul National University
-  education2: Bachelor, SNU College of Social Sciences(Political Science&International Relations)
+  education2: BA in Western History, Seoul National University
 
 - name: Seungju Lee
   photo: lsj.jpg
@@ -25,14 +25,12 @@
   education1: Master of Data Science, Seoul National University
   education2: B.S. in Physics, University of Seoul
 
-- name: Chansong Lim
-  photo: chansonglim.jpg
-  current_status: PhD student in Computer Science, UC Riverside
-  duration: Mar 2022 - Feb 2024
-  email: chansong.lim@email.ucr.edu
+- name: Sangwoo Heo
+  photo: sangwooheo.jpg
+  current_status: NAVER Corporation / AI Safety Research @Future AI Center
+  duration: Jan 2023 - Aug 2024
+  email: sangwoo.heo@navercorp.com
   number_educ: 2
   education1: Master of Data Science, Seoul National University
-  education2: BA in Western History, Seoul National University
-
-
+  education2: Bachelor, SNU College of Social Sciences(Political Science&International Relations)
 
