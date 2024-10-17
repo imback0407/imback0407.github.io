@@ -7,6 +7,41 @@
   education1: Master of Data Science, Seoul National University
   education2: BA in Western History, Seoul National University
 
+- name: Changuk Lee
+  photo: default.jpg
+  current_status: 
+  duration: Mar 2022 - Feb 2024
+  email: 
+  number_educ: 
+  education1:
+  education2:
+
+- name: Ji Hong Min
+  photo: default.jpg
+  current_status: 
+  duration: Mar 2022 - Feb 2024
+  email: 
+  number_educ: 
+  education1:
+  education2:
+
+- name: Sejin Kim
+  photo: default.jpg
+  current_status: 
+  duration: Mar 2022 - Feb 2024
+  email: 
+  number_educ: 
+  education1:
+  education2:
+
+- name: Sunyoung Park
+  photo: sunyoungpark.jpg
+  current_status: 
+  duration: Dec 2022 - 
+  email: psy0107@snu.ac.kr
+  number_educ: 1
+  education1: M.Sc. in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
+
 - name: Seungju Lee
   photo: lsj.jpg
   current_status: 
@@ -33,4 +68,5 @@
   number_educ: 2
   education1: Master of Data Science, Seoul National University
   education2: Bachelor, SNU College of Social Sciences(Political Science&International Relations)
+
 
