@@ -1,10 +1,10 @@
-- name: Seungju Lee
-  photo: lsj.jpg
-  research: Operations Research
-  info: since Jul 2022
-  email: lotusist10@snu.ac.kr
-  number_educ: 1
-  education1: B.A. in English Language and Literature, Seoul National University (2019)
+# - name: Seungju Lee
+#   photo: lsj.jpg
+#   research: Operations Research
+#   info: since Jul 2022
+#   email: lotusist10@snu.ac.kr
+#   number_educ: 1
+#   education1: B.A. in English Language and Literature, Seoul National University (2019)
 
 - name: Yoonseok Lee
   photo: ysl.jpg
@@ -23,29 +23,29 @@
   email: sjycka1004@snu.ac.kr
   number_educ: 0
 
-- name: Sunyoung Park
-  photo: SunyoungPark.jpg
-  research: Visualization
-  info: since Dec 2022
-  email: psy0107@snu.ac.kr
-  number_educ: 1
-  education1: M.Sc. in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
+# - name: Sunyoung Park
+#   photo: SunyoungPark.jpg
+#   research: Visualization
+#   info: since Dec 2022
+#   email: psy0107@snu.ac.kr
+#   number_educ: 1
+#   education1: M.Sc. in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
 
-- name: Sangwoo Heo
-  photo: sangwooheo.jpg
-  research: Visualization
-  info: since Dec 2022
-  email: sh10hsw@snu.ac.kr
-  number_educ: 1
-  education1: B.A. in Political Science, Seoul National University (2018)
+# - name: Sangwoo Heo
+#   photo: sangwooheo.jpg
+#   research: Visualization
+#   info: since Dec 2022
+#   email: sh10hsw@snu.ac.kr
+#   number_educ: 1
+#   education1: B.A. in Political Science, Seoul National University (2018)
 
-- name: Byungwoo Kim
-  photo: byungwookim.jpg
-  research: Operations Research
-  info: since Jul 2023
-  email: byungwoo.kim@snu.ac.kr
-  number_educ: 1
-  education1: B.S. in Physics, University of Seoul (2012)
+# - name: Byungwoo Kim
+#   photo: byungwookim.jpg
+#   research: Operations Research
+#   info: since Jul 2023
+#   email: byungwoo.kim@snu.ac.kr
+#   number_educ: 1
+#   education1: B.S. in Physics, University of Seoul (2012)
 
 - name: Yooyeun Kim
   photo: yykim.jpg
