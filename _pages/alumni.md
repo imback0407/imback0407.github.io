@@ -17,7 +17,7 @@ permalink: /alumni/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="width: 150px; height: 210px; object-fit: cover; float: left;" />
   <h4>{{ member.name }}</h4>
-  <h5>Current Status : {{ member.current_status }}</h5>
+  <h5>{{ member.current_status }}</h5>
   <i>{{ member.duration }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
