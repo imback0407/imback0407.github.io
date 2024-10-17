@@ -22,7 +22,8 @@ permalink: /alumni/
   <ul style="overflow: hidden">
 
     {% for i in (1..member.number_educ) %}
-    <li>{{ member["education" | append: i] | markdownify }}</li>
+    {% assign education_key = "education" | append: i %}
+    <li>{{ member[education_key] | markdownify }}</li>
     {% endfor %}
 
   </ul>
