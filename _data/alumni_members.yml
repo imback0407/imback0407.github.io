@@ -5,7 +5,7 @@
   email: chansong.lim@email.ucr.edu
   number_educ: 2
   education1: Master of Data Science, Seoul National University
-  education2: BA in Western History, Seoul National University
+  education2: Bachelor of Arts in Western History, Seoul National University
 
 - name: Changuk Lee
   photo: default.png
@@ -18,12 +18,12 @@
 
 - name: Ji Hong Min
   photo: default.png
-  current_status: 
+  current_status: Data Scientist at Hanwha Ocean
   duration: Mar 2022 - Feb 2024
-  email: 
-  number_educ: 
-  education1:
-  education2:
+  email: jhmin325@gmail.com
+  number_educ: 2
+  education1: Master of Data Science, Seoul National University
+  education2: Bachelor of Science in Mechanical Engineering, Georgia Institute of Technology
 
 - name: Sejin Kim
   photo: default.png
@@ -40,7 +40,7 @@
   duration: Dec 2022 - 
   email: psy0107@snu.ac.kr
   number_educ: 1
-  education1: M.Sc. in Accounting and Finance, London School of Economics and Political Science (LSE) (2017)
+  education1: Master of Science in Accounting and Finance, London School of Economics and Political Science
 
 - name: Seungju Lee
   photo: lsj.jpg
@@ -49,8 +49,8 @@
   email: lotusist10@snu.ac.kr
   number_educ: 2
   education1: Master of Data Science, Seoul National University
-  education2: B.A. in English Language and Literature, Seoul National University
-
+  education2: Bachelor of Arts in English Language and Literature, Seoul National University
+  
 - name: ByungWoo Kim
   photo: byungwookim.jpg
   current_status: SK Hynix / Global QRA department
@@ -58,7 +58,7 @@
   email: byungwoo.kim@snu.ac.kr
   number_educ: 2
   education1: Master of Data Science, Seoul National University
-  education2: B.S. in Physics, University of Seoul
+  education2: Bachelor of Science in Physics, University of Seoul
 
 - name: Sangwoo Heo
   photo: sangwooheo.jpg
@@ -67,6 +67,6 @@
   email: sangwoo.heo@navercorp.com
   number_educ: 2
   education1: Master of Data Science, Seoul National University
-  education2: Bachelor, SNU College of Social Sciences(Political Science&International Relations)
+  education2: Bachelor of Social Sciences(Political Science&International Relations), Seoul National University
 
 
