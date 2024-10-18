@@ -9,7 +9,7 @@ permalink: /conference/
 <h2>Conference&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
 {% for publi in site.data.conference %}
 
-  {{ publi.title }} <br />
+  - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
@@ -18,7 +18,7 @@ permalink: /conference/
 
 {% for publi in site.data.journal %}
 
-  {{ publi.title }} <br />
+  - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
@@ -27,7 +27,7 @@ permalink: /conference/
 
 {% for publi in site.data.thesis %}
 
-  {{ publi.title }} <br />
+  - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
