@@ -34,14 +34,6 @@
   education1: M.S. in Data Science, Seoul National University
   education2: B.A. in Law, Korea National Police University
 
-- name: Sunyoung Park
-  photo: SunyoungPark.jpg
-  current_status: 
-  duration: Dec 2022 - 
-  email: psy0107@snu.ac.kr
-  number_educ: 1
-  education1: M.S. in Accounting and Finance, London School of Economics and Political Science
-
 - name: Seungju Lee
   photo: lsj.jpg
   current_status: 
@@ -59,6 +51,14 @@
   number_educ: 2
   education1: M.S. in Data Science, Seoul National University
   education2: B.S. in Physics, University of Seoul
+
+- name: Sunyoung Park
+  photo: SunyoungPark.jpg
+  current_status: 
+  duration: Dec 2022 - 
+  email: psy0107@snu.ac.kr
+  number_educ: 1
+  education1: M.S. in Accounting and Finance, London School of Economics and Political Science
 
 - name: Sangwoo Heo
   photo: sangwooheo.jpg
