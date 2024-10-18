@@ -14,7 +14,7 @@ permalink: /conference/
 
 {% endfor %}
 
-<hr style="width: 50%; margin-left: 25%;">
+<hr style="width: 50%; margin-left: 0%;">
 
 <h2>Journal&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
 
@@ -25,7 +25,7 @@ permalink: /conference/
 
 {% endfor %}
 
-<hr style="width: 50%; margin-left: 25%;">
+<hr style="width: 50%; margin-left: 0%;">
 
 <h2>Thesis&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
 
