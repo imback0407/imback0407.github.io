@@ -9,12 +9,12 @@
 
 - name: Changuk Lee
   photo: default.png
-  current_status: 
+  current_status: Data Scientist, Hyundai Marine & Fire Insurance
   duration: Mar 2022 - Feb 2024
-  email: 
-  number_educ: 
-  education1:
-  education2:
+  email: leeccuu@gmail.com	
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.S. in Statistics, University of Illinois at Urbana Champaign
 
 - name: Ji Hong Min
   photo: default.png
