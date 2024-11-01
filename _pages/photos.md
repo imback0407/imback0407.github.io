@@ -16,16 +16,24 @@ permalink: /photos/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix" style="text-align: left;">
-  <div style="height: 80px; display: flex; flex-direction: column; justify-content: center;">
-    <h5 style="margin: 0; font-weight: bold;">
-      {% if pic.title == "" %}Lab Pic{% else %}{{ pic.title }}{% endif %}
+<div class="col-sm-3 clearfix" style="text-align: center;">
+  <div style="width: 270px; display: inline-block; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
+    <h5 style="text-align: center; margin-bottom: 5px;">
+      {% if pic.title == "" %}
+        2024-1 Pacific Vis
+      {% else %}
+        {{ pic.title }}
+      {% endif %}
     </h5>
-    <h6 style="margin: 0; color: gray;">
-      {% if pic.date == "" %}YYYY.MM.DD{% else %}{{ pic.date }}{% endif %}
-    </h6>
   </div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover;" />
+  <h6 style="text-align: center; margin-top: 5px;">
+    {% if pic.date == "" %}
+      2024.04
+    {% else %}
+      {{ pic.date }}
+    {% endif %}
+  </h6>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: center;" />
 </div>
 
 
