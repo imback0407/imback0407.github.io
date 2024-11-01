@@ -16,6 +16,7 @@ permalink: /photos/
 <div class="row">
 {% endif %}
 
+{% raw %}
 <div class="col-sm-3 clearfix" style="text-align: left;">
   <div class="photo-info" style="height: 80px; text-align: left;">
     <h5 style="margin: 0; text-align: left;">{% if pic.title == "" %}Lab Pic{% else %}<b>{{ pic.title }}</b>{% endif %}</h5>
@@ -23,6 +24,7 @@ permalink: /photos/
   </div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width: 270px; height: 350px; object-fit: cover; text-align: left;" />
 </div>
+{% endraw %}
 
 {% assign number_printed = number_printed | plus: 1 %}
 
