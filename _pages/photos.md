@@ -17,25 +17,12 @@ permalink: /photos/
 {% endif %}
 
 <div class="col-sm-3 clearfix" style="text-align: center;">
-  <div style="width: 270px; display: inline-block; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
-    <h5 style="text-align: center; margin-bottom: 5px;">
-      {% if pic.title == "" %}
-        2024-1 Pacific Vis
-      {% else %}
-        {{ pic.title }}
-      {% endif %}
-    </h5>
-  </div>
-  <h6 style="text-align: center; margin-top: 5px;">
-    {% if pic.date == "" %}
-      2024.04
-    {% else %}
-      {{ pic.date }}
-    {% endif %}
-  </h6>
+  <h5 style="text-align: center; margin-bottom: 5px;">
+    <b>2023-2 Graduation Ceremony</b>
+  </h5>
+  <h6 style="text-align: center; margin-top: 5px;">2023.08</h6>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: center;" />
 </div>
-
 
 {% assign number_printed = number_printed | plus: 1 %}
 
