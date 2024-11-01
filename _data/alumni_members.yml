@@ -1,20 +1,72 @@
-- name: Sejin Kim
+- name: Chansong Lim
+  photo: default.png
+  current_status: PhD in Computer Science, University of California, Riverside
   duration: Mar 2022 - Feb 2024
-- name: Ji Hong Min
-  duration: Mar 2022 - Feb 2024
+  email: chansong.lim@email.ucr.edu
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.A. in Western History, Seoul National University
+
 - name: Changuk Lee
+  photo: default.png
+  current_status: Data Scientist, Hyundai Marine & Fire Insurance
   duration: Mar 2022 - Feb 2024
-- name: Chan song Lim 
+  email: leeccuu@gmail.com	
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.S. in Statistics, University of Illinois at Urbana Champaign
+
+- name: Ji Hong Min
+  photo: default.png
+  current_status: Data Scientist, Hanwha Ocean
   duration: Mar 2022 - Feb 2024
+  email: jhmin325@gmail.com
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.S. in Mechanical Engineering, Georgia Institute of Technology
+
+- name: Sejin Kim
+  photo: default.png
+  current_status: Inspector, Korean National Police Agency
+  duration: Mar 2022 - Feb 2024
+  email: sejinkim0101@gmail.com
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.A. in Law, Korea National Police University
+
+- name: Seungju Lee
+  photo: lsj.jpg
+  current_status: 
+  duration: Jul 2022  - Aug 2024 
+  email: lotusist10@snu.ac.kr
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.A. in English Language and Literature, Seoul National University
   
-# - name: Koen M Bastiaans
-#   photo: Koen.jpg
-#   info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
-#   duration: In the Allan Lab from 2015 - 2023 as a MSc student, then PhD (cum laude, Ehrenfest-Afanassjewa prize), and postdoc.
-#   email: Bastiaans@Physics.LeidenUniv.nl
-#   number_educ: 4
-#   education1: Postdoc in the Otte Lab, Leiden University
-#   education2: Postdoc in the Allan Lab, Leiden University
-#   education3: PhD with Milan Allan, Leiden University (prize for best physics PhD in the Netherlands)
-#   education4: Master Leiden University with Milan Allan
+- name: ByungWoo Kim
+  photo: byungwookim.jpg
+  current_status: Global QRA department, SK Hynix 
+  duration: Sep 2022 - Aug 2024
+  email: byungwoo.kim@snu.ac.kr
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.S. in Physics, University of Seoul
+
+- name: Sunyoung Park
+  photo: SunyoungPark.jpg
+  current_status: 
+  duration: Dec 2022 - 
+  email: psy0107@snu.ac.kr
+  number_educ: 1
+  education1: M.S. in Accounting and Finance, London School of Economics and Political Science
+
+- name: Sangwoo Heo
+  photo: sangwooheo.jpg
+  current_status: AI Safety Research, Future AI Center, NAVER
+  duration: Jan 2023 - Aug 2024
+  email: sangwoo.heo@navercorp.com
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.S. in Social Sciences(Political Science&International Relations), Seoul National University
+
 
