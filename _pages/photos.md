@@ -16,12 +16,10 @@ permalink: /photos/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix" style="text-align: left; width: 270px;">
-  <div class="photo-info" style="height: 60px; display: flex; flex-direction: column; justify-content: center;">
-    <h5 style="margin: 0; text-align: left;">{% if pic.title == "" %}Lab Pic{% else %}<b>{{ pic.title }}</b>{% endif %}</h5>
-    <h6 style="margin: 0; text-align: left;">{% if pic.date == "" %}YYYY.MM.DD{% else %}{{ pic.date }}{% endif %}</h6>
-  </div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width: 100%; height: 350px; object-fit: cover; text-align: left;" />
+<div class="col-sm-3 clearfix" style="text-align: left; width: 270px">
+  <h5 style="text-align: left;">{% if pic.title == "" %}Lab Pic{% else %}<b>{{ pic.title }}</b>{% endif %}</h5>
+  <h6 style="text-align: left;">{% if pic.date == "" %}YYYY.MM.DD{% else %}{{ pic.date }}{% endif %}</h6>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: left;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
