@@ -17,10 +17,8 @@ permalink: /photos/
 {% endif %}
 
 <div class="col-sm-3 clearfix" style="text-align: center;">
-  <h5 style="text-align: center; margin-bottom: 5px;">
-    <b>2023-2 Graduation Ceremony</b>
-  </h5>
-  <h6 style="text-align: center; margin-top: 5px;">2023.08</h6>
+  <h5 style="text-align: center; margin-bottom: 5px;">{% if pic.title == "" %}Lab Pic{% else %}<b>{{ pic.title }}</b>{% endif %}</h5>
+  <h6 style="text-align: center; margin-top: 5px;">{% if pic.date == "" %}YYYY.MM.DD{% else %}{{ pic.date }}{% endif %}</h6>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: center;" />
 </div>
 
