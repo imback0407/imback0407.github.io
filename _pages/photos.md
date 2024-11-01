@@ -18,21 +18,9 @@ permalink: /photos/
 
 <div class="col-sm-3 clearfix" style="text-align: left;">
   <div style="width: 270px; display: inline-block; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
-    <h5 style="text-align: left; margin-bottom: 5px;">
-      {% if pic.title == "" %}
-        Lab Pic
-      {% else %}
-        {{ pic.title }}
-      {% endif %}
-    </h5>
+    <h5 style="text-align: left;">{% if pic.title == "" %}Lab Pic{% else %}{{ pic.title }}{% endif %}</h5>
   </div>
-  <h6 style="text-align: left; margin-top: 5px;">
-    {% if pic.date == "" %}
-      YYYY.MM.DD
-    {% else %}
-      {{ pic.date }}
-    {% endif %}
-  </h6>
+  <h6 style="text-align: left;">{% if pic.date == "" %}YYYY.MM.DD{% else %}{{ pic.date }}{% endif %}</h6>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" style="width:270px; height:350px; object-fit: cover; text-align: left;" />
 </div>
 
