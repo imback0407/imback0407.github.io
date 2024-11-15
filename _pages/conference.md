@@ -1,9 +1,9 @@
 ---
-title: "ViBA - Publications"
+title: "ViBA - Conference"
 layout: gridlay
-excerpt: "ViBA -- Publications."
+excerpt: "ViBA -- Conference."
 sitemap: false
-permalink: /publications/
+permalink: /conference/
 ---
 
 <h2>Conference&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
