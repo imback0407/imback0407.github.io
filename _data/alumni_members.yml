@@ -42,6 +42,14 @@
   number_educ: 2
   education1: M.S. in Data Science, Seoul National University
   education2: B.A. in English Language and Literature, Seoul National University
+
+- name: Sojeong Yeon
+  photo: sjy.jpeg
+  research: Operations Research
+  info: Jul 2022 - Feb 2024
+  email: sjycka1004@snu.ac.kr
+  number_educ: 1
+  education1: M.S. in Data Science, Seoul National University
   
 - name: ByungWoo Kim
   photo: byungwookim.jpg
@@ -52,13 +60,13 @@
   education1: M.S. in Data Science, Seoul National University
   education2: B.S. in Physics, University of Seoul
 
-- name: Sunyoung Park
-  photo: SunyoungPark.jpg
-  current_status: 
-  duration: Dec 2022 - 
-  email: psy0107@snu.ac.kr
-  number_educ: 1
-  education1: M.S. in Accounting and Finance, London School of Economics and Political Science
+# - name: Sunyoung Park
+#   photo: SunyoungPark.jpg
+#   current_status: 
+#   duration: Dec 2022 - 
+#   email: psy0107@snu.ac.kr
+#   number_educ: 1
+#   education1: M.S. in Accounting and Finance, London School of Economics and Political Science
 
 - name: Sangwoo Heo
   photo: sangwooheo.jpg
@@ -68,5 +76,24 @@
   number_educ: 2
   education1: M.S. in Data Science, Seoul National University
   education2: B.S. in Social Sciences(Political Science&International Relations), Seoul National University
+
+- name: Yunsu Kim
+  photo: yunsukim.jpg
+  research: Visualization
+  info: Jan 2023 - Feb 2024
+  email: hot3203@snu.ac.kr
+  number_educ: 2
+  education1: Ph.D. in Data Science, Seoul National University
+  education2: B.S. in Electrical and Computer Engineering, Ajou University 
+  
+
+- name: Jeongjin Park
+  photo: jeongjinpark.jpg
+  research: GNN
+  info: Oct 2023 - Feb 2024
+  email: pkmon1d@snu.ac.kr
+  number_educ: 2
+  education1: M.S. in Data Science, Seoul National University
+  education2: B.A. in Statistics, Korea University 
 
 

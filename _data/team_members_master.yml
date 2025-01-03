@@ -1,19 +1,12 @@
-- name: Yoonseok Lee
-  photo: ysl.jpg
-  research: Operations Research
-  info: since Jul 2023
-  email: lys8691@snu.ac.kr
-  number_educ: 3
-  education1: B.A. in Public Administration, Yonsei University (2018)
-  education2: B.A. in Business Administration, Yonsei University (2018)
-  education3: B.S. in Computer Science and Engineering, Yonsei University (2018)
-
-- name: Sojeong Yeon
-  photo: sjy.jpeg
-  research: Operations Research
-  info: since Jul 2022
-  email: sjycka1004@snu.ac.kr
-  number_educ: 0
+# - name: Yoonseok Lee
+#   photo: ysl.jpg
+#   research: Operations Research
+#   info: since Jul 2023
+#   email: lys8691@snu.ac.kr
+#   number_educ: 3
+#   education1: B.A. in Public Administration, Yonsei University (2018)
+#   education2: B.A. in Business Administration, Yonsei University (2018)
+#   education3: B.S. in Computer Science and Engineering, Yonsei University (2018)
 
 - name: Yooyeun Kim
   photo: yykim.jpg
@@ -23,14 +16,6 @@
   number_educ: 2
   education1: B.A. in Communication, Seoul National University (2023)
   education2: B.S. in Computational Science, Seoul National University (2023)
-
-- name: Jeongjin Park
-  photo: jeongjinpark.jpg
-  research: GNN
-  info: since Oct 2023
-  email: pkmon1d@snu.ac.kr
-  number_educ: 1
-  education1: B.A. in Statistics, Korea University (2020)
 
 - name: Chan Gyu Lee
   photo: changyu.jpg
@@ -66,13 +51,13 @@
   number_educ: 1
   education1: B.S. in Data Analytics, The Ohio State University (2023)
 
-- name: Minwoo Han
-  photo: minwoo.jpg
-  research: GNN
-  info: Since Jan 2024
-  email: h9933k@snu.ac.kr
-  number_educ: 1
-  education1: B.S. in Mechanical and Aerospace Engineering, Seoul National University (2014)
+# - name: Minwoo Han
+#   photo: minwoo.jpg
+#   research: GNN
+#   info: Since Jan 2024
+#   email: h9933k@snu.ac.kr
+#   number_educ: 1
+#   education1: B.S. in Mechanical and Aerospace Engineering, Seoul National University (2014)
 
 - name: Jaeseong Ju
   photo: jaeseong.jpg
@@ -105,3 +90,5 @@
   email: yujinpink@snu.ac.kr
   number_educ: 1
   education1: B.S. in Data Science, Sungkyunkwan University (2024)
+
+  
