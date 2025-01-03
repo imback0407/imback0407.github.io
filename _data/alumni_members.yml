@@ -46,7 +46,7 @@
 - name: Sojeong Yeon
   photo: sjy.jpeg
   research: Operations Research
-  info: Jul 2022 - Feb 2024
+  duration: Jul 2022 - Feb 2024
   email: sjycka1004@snu.ac.kr
   number_educ: 1
   education1: M.S. in Data Science, Seoul National University
@@ -79,18 +79,16 @@
 
 - name: Yunsu Kim
   photo: yunsukim.jpg
-  research: Visualization
-  info: Jan 2023 - Feb 2024
+  duration: Jan 2023 - Feb 2024
   email: hot3203@snu.ac.kr
   number_educ: 2
   education1: Ph.D. in Data Science, Seoul National University
   education2: B.S. in Electrical and Computer Engineering, Ajou University 
   
-
 - name: Jeongjin Park
   photo: jeongjinpark.jpg
   research: GNN
-  info: Oct 2023 - Feb 2024
+  duration: Oct 2023 - Feb 2024
   email: pkmon1d@snu.ac.kr
   number_educ: 2
   education1: M.S. in Data Science, Seoul National University
