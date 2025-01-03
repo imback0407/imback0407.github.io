@@ -8,7 +8,7 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/viba_logo.png" class="img-responsive" height= "130px" style="float: left" />
 
-Welcome! We are **Visualization and Business Analytics Lab(ViBA)** at Seoul National University led by professor [Hyunwoo Park](https://www.snu-viba.com/professor). ViBA is a pioneering hub where the convergence of visualization, operations research, and graph neural networks (GNNs) propels the frontier of technology and innovation. Our multidisciplinary team is dedicated to exploring and advancing these dynamic fields, driven by their increasing relevance and application in today's data-driven world.
+Welcome! We are **Visualization and Business Analytics Lab(ViBA)** at Seoul National University led by professor [Hyunwoo Park](https://vibalab.org/professor/). ViBA is a pioneering hub where the convergence of visualization, operations research, and graph neural networks (GNNs) propels the frontier of technology and innovation. Our multidisciplinary team is dedicated to exploring and advancing these dynamic fields, driven by their increasing relevance and application in today's data-driven world.
 More details to follow.
 
 ## Lab Introduction Video
