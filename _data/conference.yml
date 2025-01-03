@@ -1,3 +1,9 @@
+- title: "Adaptive Sparsified Graph Learning Framework for Vessel Behavior Anomalies"
+  authors: <b>Kim J</b>, <b>Kim M</b>, Ju J, Lee W, Park H
+  link:
+    url: https://www.nsfhdr.org/AAAI-workshop
+    display: Anomaly Detection in Scientific Domains AAAI Workshop (2025)
+
 - title: "A Long-term, Geospatial-based Approach for Location Suitability Evaluation of Flood Relief Camps Considering Climate Change"
   image: imageaward_edited.png
   authors: Choi Y,  Park H
@@ -35,3 +41,4 @@
 #     display: Nature Materials 22, 703 (2023)
 #   highlight: 1
 #   news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+

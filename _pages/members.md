@@ -63,9 +63,14 @@ permalink: /members/
 
 {% if even_odd == 1 %}
 </div>
+<div style="clear: both;"></div>
 {% endif %}
-
 {% endfor %}
+
+{% if number_printed | modulo: 2 == 1 %}
+</div>
+<div style="clear: both;"></div>
+{% endif %}
 
 <h2>Masters</h2>
 
@@ -123,16 +128,11 @@ permalink: /members/
 
 {% if even_odd == 1 %}
 </div>
+<div style="clear: both;"></div>
 {% endif %}
-
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-{% endif %}
-
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if number_printed | modulo: 2 == 1 %}
 </div>
+<div style="clear: both;"></div>
 {% endif %}
